@@ -33,7 +33,7 @@ I'm not trying to be the smartest person in the room — just the most curious o
 Wanna talk? build? share cool ideas?  
 I’m always down to connect:
 
-📍 [Website](https://adilsukumar.github.io/adilsukumar)  
+📍 [Website](https://adilsukumar.github.io/Website/)  
 🔬 [Research Blog](https://adilsukumar.blogspot.com)  
 💼 [Linkedin](https://linkedin.com/in/adilsukumar)  
 📸 [Instagram](https://instagram.com/adilsukumar)  
