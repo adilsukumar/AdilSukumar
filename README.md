@@ -90,7 +90,8 @@
 </div>
 
 ## 🐍 Contribution Snake
-<img src="https://raw.githubusercontent.com/AdilSukumar/AdilSukumar/output/github-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/AdilSukumar/AdilSukumar/output/snake-dark.svg" />
+
 
 </details>
 
