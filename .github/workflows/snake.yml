@@ -13,6 +13,6 @@ jobs:
 
       - uses: Platane/snk@v3
         with:
-          github_user_name: AdilSukumar
+          github_user_name: adilsukumar
           outputs: |
             dis
