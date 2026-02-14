@@ -32,11 +32,11 @@
 </div>
 
 
-
 </div>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,arduino,cpp,html,css,js,opencv,git,linux,vscode,firebase&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,arduino,cpp,html,css,js,git,linux,vscode,firebase,aws,docker,pytorch&theme=dark&perline=8" />
 </p>
+
 
 # 🛜 Connect Here:
 <div align="center">
@@ -70,6 +70,8 @@
 </div>
 <p align="center">
 <details>
+
+</div>
 <summary><b>💁‍♂️ Click here to know more...<span style="text-decoration: none; border-bottom: 1px solid;"> [Expand/ Scale Down]      
 
 
