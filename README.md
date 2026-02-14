@@ -43,8 +43,9 @@
 
 ## 🏆 GitHub Trophies:
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AdilSukumar&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AdilSukumar&theme=darkhub&no-frame=true&margin-w=10" />
 </div>
+
 
 ## ✍️ Dev Quote:
 "Currently, I am 18 (Year: 2026) - my Birthday is on November :), and I don't want to see my future self waste time on meaningless things like just building a profile—I want to shape the future itself, NOW!."
@@ -57,14 +58,9 @@
 ##
 
 <div align="center">
-  <a href="https://github.com/AdilSukumar"><img alt="Adil Sukumar's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=AdilSukumar&bg_color=RRGGBBAA&title_color=84C2C0&color=84C2C0&line=84C2C0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" /></a>
-  </div> 
-  
-<div align="center">
-  <a href="https://github.com/AdilSukumar">
-    <img alt="Adil Sukumar's Activity Graph"/>
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdilSukumar&theme=react-dark&hide_border=true" />
 </div>
+
 
 </details>
 
