@@ -24,6 +24,16 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
+</div>
+
+
+
+</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,arduino,cpp,html,css,js,opencv,git,linux,vscode,firebase&theme=dark&perline=8" />
+</p>
+
+# 🛜 Connect Here!:
 <div align="center">
 
 <a href="mailto:adilsukumar24@gmail.com">
@@ -52,12 +62,6 @@
 
 </div>
 
-
-
-</div>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,arduino,cpp,html,css,js,opencv,git,linux,vscode,firebase&theme=dark&perline=8" />
-</p>
 
 <details>
 <summary><b>💁‍♂️ Click here to know more...<span style="text-decoration: none; border-bottom: 1px solid;"> [Expand/ Scale Down]      
