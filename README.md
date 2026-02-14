@@ -34,7 +34,7 @@
 
 </div>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,arduino,cpp,html,css,js,git,linux,vscode,firebase,aws,docker,pytorch,firebase,supabase,pytorch&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,arduino,cpp,html,css,js,git,linux,vscode,firebase,aws,docker,pytorch,firebase,supabase,mysql&theme=dark&perline=8" />
 </p>
 
 
