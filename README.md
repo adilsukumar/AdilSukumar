@@ -89,8 +89,8 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdilSukumar&theme=github-compact" />
 </div>
 
-## 🐍 Contribution Snake 
-![Snake animation](https://github.com/AdilSukumar/AdilSukumar/blob/output/github-contribution-grid-snake.svg)
+## 🐍 Contribution Snake
+![Snake animation](https://github.com/adilsukumar/adilsukumar/blob/output/github-contribution-grid-snake.svg)
 
 </details>
 
