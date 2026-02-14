@@ -65,9 +65,7 @@
 <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=hashnode&logoColor=white"/>
 </a>
 
-<div>
-    
-</div>
+<br>
 
 <details>
   <summary align="center"><b>💁‍♂️ Click here to know more... [Expand / Collapse]</b></summary>
@@ -85,9 +83,6 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=AdilSukumar&theme=great-gatsby&hide_border=false" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdilSukumar&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </div>
-
-
-
 
 
 <div align="left">
