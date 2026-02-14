@@ -43,7 +43,7 @@
 
 ## 🏆 GitHub Trophies:
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AdilSukumar&theme=darkhub&no-frame=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AdilSukumar&theme=onedark&no-frame=true&row=1&column=6" />
 </div>
 
 
@@ -56,9 +56,8 @@
 </div>
 
 ##
-
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdilSukumar&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdilSukumar&theme=github-compact" />
 </div>
 
 
