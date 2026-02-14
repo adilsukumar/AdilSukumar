@@ -74,38 +74,23 @@
 
 ⚡ Fun fact: The Pratfall Effect—People tend to like you more if you make small mistakes. In society, someone who appears too perfect can seem intimidating or unrelatable, but showing minor flaws makes you more likable and human.
 
-
-
 # 📊 GitHub Stats:
 </div>
 
 <!-- Centered images/graphs -->
 <div align="center">
-    
-  ![](https://github-readme-stats.vercel.app/api?username=AdilSukumar&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false)![](https://nirzak-streak-stats.vercel.app/?user=AdilSukumar&theme=great-gatsby&hide_border=false) <br/> 
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdilSukumar&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AdilSukumar&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=AdilSukumar&theme=great-gatsby&hide_border=false" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdilSukumar&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </div>
+
+<div align="left">
 
 ## ✍️ Dev Quote:
 "I'm 18 (2026) (My Birthday is on November 🙂), building robots, writing code, and learning every day, not to decorate a profile, but to create things that matter. Future me doesn’t get excuses. Present me does the work."
 
-## 🔝 Top Contributed Repo:
-<div style="margin-bottom: 30px;" align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=AdilSukumar&limit=5&theme=great-gatsby&combine_all_yearly_contributions=true" alt="Contributor Stats" />
 </div>
-
-## 📈 Activity Graph:
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdilSukumar&theme=github-compact" />
-</div>
-
-## 🐍 Contribution Snake
-<img src="https://raw.githubusercontent.com/AdilSukumar/AdilSukumar/output/snake-dark.svg" />
-
-
 </details>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:84C2C0,50:6DD5FA,100:A18AFF&height=100&section=footer&fontSize=90&fontAlignY=45&animation=fadeIn&stroke=12345&strokeWidth=50"/>
 
 <!---
 AdilSukumar/AdilSukumar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
