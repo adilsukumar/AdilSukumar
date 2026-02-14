@@ -82,9 +82,10 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AdilSukumar&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=AdilSukumar&theme=great-gatsby&hide_border=false" /><br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=AdilSukumar&theme=great-gatsby&hide_border=false" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdilSukumar&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </div>
+
 
 
 
