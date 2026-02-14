@@ -77,9 +77,14 @@
 
 
 # 📊 GitHub Stats:
+</div>
+
+<!-- Centered images/graphs -->
+<div align="center">
+    
   ![](https://github-readme-stats.vercel.app/api?username=AdilSukumar&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false)![](https://nirzak-streak-stats.vercel.app/?user=AdilSukumar&theme=great-gatsby&hide_border=false) <br/> 
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdilSukumar&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
-  
+</div>
 
 ## ✍️ Dev Quote:
 "I'm 18 (2026) (My Birthday is on November 🙂), building robots, writing code, and learning every day, not to decorate a profile, but to create things that matter. Future me doesn’t get excuses. Present me does the work."
