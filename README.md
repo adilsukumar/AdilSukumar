@@ -24,6 +24,35 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
+<div align="center">
+
+<a href="mailto:adilsukumar24@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/adilsukumar">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/adilsukumar">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://github.com/AdilSukumar">
+<img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://adilsukumar.github.io/Website">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://YOUR_BLOG](https://adilsukumar.blogspot.com/">
+<img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=hashnode&logoColor=white"/>
+</a>
+
+</div>
+
+
 
 </div>
 <p align="center">
@@ -54,6 +83,8 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdilSukumar&theme=github-compact" />
 </div>
 
+## 🐍 Contribution Snake 
+![Snake animation](https://github.com/AdilSukumar/AdilSukumar/blob/output/github-contribution-grid-snake.svg)
 
 </details>
 
