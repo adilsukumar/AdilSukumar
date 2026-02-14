@@ -65,12 +65,12 @@
 <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=hashnode&logoColor=white"/>
 </a>
 
-<br>
+<br><br>
 
 <details>
   <summary align="center"><b>💁‍♂️ Click here to know more... [Expand / Collapse]</b></summary>
 
-<br><br>
+<br>
     
 <!-- Left-aligned text only -->
 <div align="left">
