@@ -69,7 +69,8 @@
 <details>
   <summary align="center"><b>💁‍♂️ Click here to know more... [Expand / Collapse]</b></summary>
 
-<p align="left">
+<!-- Left-aligned text only -->
+<div align="left">
 
 ⚡ Fun fact: The Pratfall Effect—People tend to like you more if you make small mistakes. In society, someone who appears too perfect can seem intimidating or unrelatable, but showing minor flaws makes you more likable and human.
 
