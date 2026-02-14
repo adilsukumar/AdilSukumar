@@ -66,13 +66,13 @@
 </a>
 
 
-</div>
 <p align="center">
-<details align="center">
-  <summary><b>💁‍♂️ Click here to know more... [Expand / Collapse]</b></summary>
+  <details>
+    <summary><b>💁‍♂️ Click here to know more... [Expand / Collapse]</b></summary>
+  </details>
+</p>
 
-
-</span></b></summary>⚡ Fun fact: The Pratfall Effect—People tend to like you more if you make small mistakes. In society, someone who appears too perfect can seem intimidating or unrelatable, but showing minor flaws makes you more likable and human.
+⚡ Fun fact: The Pratfall Effect—People tend to like you more if you make small mistakes. In society, someone who appears too perfect can seem intimidating or unrelatable, but showing minor flaws makes you more likable and human.
 
 
 # 📊 GitHub Stats:
