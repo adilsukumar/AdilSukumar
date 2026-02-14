@@ -41,25 +41,15 @@
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdilSukumar&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
   
 
-## 🏆 GitHub Trophies:
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AdilSukumar" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdilSukumar&show_icons=true&theme=tokyonight" />
-</div>
-
-
 ## ✍️ Dev Quote:
-"Currently, I am 18 (Year: 2026) - my Birthday is on November :), and I don't want to see my future self waste time on meaningless things like just building a profile—I want to shape the future itself, NOW!."
+"I'm 18 (2026) (My Birthday is on November 🙂), building robots, writing code, and learning every day, not to decorate a profile, but to create things that matter. Future me doesn’t get excuses. Present me does the work."
 
 ## 🔝 Top Contributed Repo:
 <div style="margin-bottom: 30px;" align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=AdilSukumar&limit=5&theme=great-gatsby&combine_all_yearly_contributions=true" alt="Contributor Stats" />
 </div>
 
-##
+## 📈 Activity Graph:
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdilSukumar&theme=github-compact" />
 </div>
