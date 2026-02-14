@@ -33,7 +33,7 @@
   <img src="https://skillicons.dev/icons?i=python,arduino,cpp,html,css,js,opencv,git,linux,vscode,firebase&theme=dark&perline=8" />
 </p>
 
-# 🛜 Connect Here!:
+# 🛜 Connect Here:
 <div align="center">
 
 <a href="mailto:adilsukumar24@gmail.com">
