@@ -70,6 +70,8 @@
 <details>
   <summary align="center"><b>💁‍♂️ Click here to know more... [Expand / Collapse]</b></summary>
 
+<br>
+    
 <!-- Left-aligned text only -->
 <div align="left">
 
