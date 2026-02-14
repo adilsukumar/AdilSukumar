@@ -34,7 +34,7 @@
 
 </div>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,arduino,cpp,html,css,js,git,linux,vscode,firebase,aws,docker,pytorch&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,arduino,cpp,html,css,js,git,linux,vscode,firebase,aws,docker,pytorch,firebase,supabase&theme=dark&perline=8" />
 </p>
 
 
@@ -61,11 +61,10 @@
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="https://YOUR_BLOG](https://adilsukumar.blogspot.com/">
+<a href="https://adilsukumar.blogspot.com/">
 <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=hashnode&logoColor=white"/>
 </a>
 
-</div>
 
 </div>
 <p align="center">
