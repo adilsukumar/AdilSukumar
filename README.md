@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:84C2C0,50:6DD5FA,100:A18AFF&height=100&section=footer&fontSize=90&fontAlignY=45&animation=fadeIn&stroke=12345&strokeWidth=50&section=header"/>
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=27&pause=1000&color=F7E42C&width=601&height=61&lines=Hey+there!+Myself+Adil+Sukumar+%F0%9F%91%8B%F0%9F%8F%BC;%F0%9F%8D%80Welcome+to+My+GitHub+Profile+%F0%9F%90%B1" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=27&pause=1000&color=F7E42C&width=601&height=61&lines=Hey+there!+I'm+Adil+Sukumar+%F0%9F%91%8B%F0%9F%8F%BC;%F0%9F%8D%80+Welcome+to+My+GitHub+Profile+%F0%9F%90%B1" alt="Typing SVG" /></a>
 </div> 
 <br>
 
@@ -71,6 +71,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:84C2C0,50:6DD5FA,100:A18AFF&height=100&section=footer&fontSize=90&fontAlignY=45&animation=fadeIn&stroke=12345&strokeWidth=50"/>
 
 <!---
-AdityaAmanAir/AdityaAmanAir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AdilSukumar/AdilSukumar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
