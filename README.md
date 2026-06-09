@@ -37,77 +37,6 @@
   <img src="https://skillicons.dev/icons?i=python,arduino,cpp,html,css,js,git,linux,vscode,firebase,aws,docker,pytorch,firebase,supabase,mysql&theme=dark&perline=8" />
 </p>
 
-# 🌟 Open Source Contributions
-
-## 🏆 Featured Projects
-
-| Project | Description | Link |
-|----------|-------------|-----|
-| ElectraWireless IoT | Home Automation UI/UX | [Repo](https://github.com/adilsukumar/ElectraWireless-IoT-and-Embedded-Systems) |
-| Spendture | Financial management platform | [Repo](https://github.com/adilsukumar/Spendture_Website) |
-| Finly | Personal Finance Web App | [Repo](https://github.com/adilsukumar/Finly_Personal_Finance) |
-| SplitSmart | Real-time expense splitter | [Repo](https://github.com/adilsukumar/SplitSmart-Smart_Expense_Splitter) |
-| Pawsitive Diagnostics | AI dog health monitoring | [Repo](https://github.com/adilsukumar/Pawsitive_Diagnostics_V1_Outdated) |
-
----
-
-## 💻 Detailed Contributions
-
-### [ElectraWireless IoT](https://github.com/adilsukumar/ElectraWireless-IoT-and-Embedded-Systems)
-- Built a modern, sleek UI/UX layout for home automation
-- Integrated glassmorphism and animated components
-- Developed a comprehensive dashboard for IoT control
-
-### [Spendture](https://github.com/adilsukumar/Spendture_Website)
-- Created the official website for comprehensive financial management
-- Implemented real-time analytics tracking and intelligent insights
-- Designed an interactive user interface for tracking spending
-
-### [Finly](https://github.com/adilsukumar/Finly_Personal_Finance)
-- Developed a web application for college students to manage expenses
-- Built features to track spending from club events to daily cafe visits
-- Fixed UI bugs and optimized session state
-
-### [SplitSmart](https://github.com/adilsukumar/SplitSmart-Smart_Expense_Splitter)
-- Built a lightweight, sign-up free expense splitting tool
-- Implemented real-time expense tracking and group sharing
-- Added dynamic receipt generation
-
-### [Pawsitive Diagnostics](https://github.com/adilsukumar/Pawsitive_Diagnostics_V1_Outdated)
-- Created an AI-powered dog health monitoring system
-- Built 4 distinct diagnostic modules (BarkSense, SkinSense, AirSense, MotionSense)
-- Integrated with ESP32-based collar for real-time tracking
-
-
-# 🛜 Connect Here:
-<div align="center">
-
-<a href="mailto:adilsukumar24@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/adilsukumar">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://instagram.com/adilsukumar">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://github.com/AdilSukumar">
-<img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://adilsukumarwebsite.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://adilsukumar.blogspot.com/">
-<img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=hashnode&logoColor=white"/>
-</a>
-
-<br><br>
-
 <details>
   <summary align="center"><b>💁‍♂️ Click here to know more... [Expand / Collapse]</b></summary>
 
@@ -116,7 +45,6 @@
 <!-- Left-aligned text only -->
 <div align="left">
 
-⚡ Fun fact: The Pratfall Effect—People tend to like you more if you make small mistakes. In society, someone who appears too perfect can seem intimidating or unrelatable, but showing minor flaws makes you more likable and human.
 
 
 # 📊 GitHub Stats:
@@ -136,7 +64,7 @@
 </div>
 ## 🔝 Top Contributed Repo:
 <div style="margin-bottom: 30px;" align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=AdilSukumar&limit=5&theme=great-gatsby&combine_all_yearly_contributions=true" alt="Contributor Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AdilSukumar&repo=Spendture_Website&theme=great-gatsby" alt="Contributor Stats" />
 </div>
 
 ## 📈 Activity Graph:
@@ -144,8 +72,63 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdilSukumar&theme=github-compact" />
 </div>
 
+
+# 🌟 Open Source Contributions
+
+*(Note: Contributed in others repos, and only those I want, my own repo contributions are in my repositories)*
+
+## 🏆 Featured Contributions
+
+| Project | Contribution | PR |
+|----------|-------------|-----|
+| Alpha | Authentication System | #123 |
+| Beta | Dashboard UI | #456 |
+
+---
+
+## 💻 Detailed Contributions
+
+### Alpha
+- Built OAuth login
+- Added JWT authentication
+- Fixed session bugs
+
+PRs:
+- #123
+- #145
+
 ## 🐍 Contribution Snake
 <img src="https://raw.githubusercontent.com/AdilSukumar/AdilSukumar/output/snake-dark.svg" />
+
+# 🛜 Connect Here:
+<div align="center">
+
+<a href="mailto:adilsukumar24@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/adilsukumar/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/adilsukumar">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://github.com/adilsukumar/">
+<img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://adilsukumarwebsite.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://adilsukumar.blogspot.com">
+<img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=hashnode&logoColor=white"/>
+</a>
+
+</div>
+<br><br>
 
 </details>
 
