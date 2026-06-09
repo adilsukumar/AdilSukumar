@@ -37,6 +37,47 @@
   <img src="https://skillicons.dev/icons?i=python,arduino,cpp,html,css,js,git,linux,vscode,firebase,aws,docker,pytorch,firebase,supabase,mysql&theme=dark&perline=8" />
 </p>
 
+# 🌟 Open Source Contributions
+
+## 🏆 Featured Projects
+
+| Project | Description | Link |
+|----------|-------------|-----|
+| ElectraWireless IoT | Home Automation UI/UX | [Repo](https://github.com/adilsukumar/ElectraWireless-IoT-and-Embedded-Systems) |
+| Spendture | Financial management platform | [Repo](https://github.com/adilsukumar/Spendture_Website) |
+| Finly | Personal Finance Web App | [Repo](https://github.com/adilsukumar/Finly_Personal_Finance) |
+| SplitSmart | Real-time expense splitter | [Repo](https://github.com/adilsukumar/SplitSmart-Smart_Expense_Splitter) |
+| Pawsitive Diagnostics | AI dog health monitoring | [Repo](https://github.com/adilsukumar/Pawsitive_Diagnostics_V1_Outdated) |
+
+---
+
+## 💻 Detailed Contributions
+
+### [ElectraWireless IoT](https://github.com/adilsukumar/ElectraWireless-IoT-and-Embedded-Systems)
+- Built a modern, sleek UI/UX layout for home automation
+- Integrated glassmorphism and animated components
+- Developed a comprehensive dashboard for IoT control
+
+### [Spendture](https://github.com/adilsukumar/Spendture_Website)
+- Created the official website for comprehensive financial management
+- Implemented real-time analytics tracking and intelligent insights
+- Designed an interactive user interface for tracking spending
+
+### [Finly](https://github.com/adilsukumar/Finly_Personal_Finance)
+- Developed a web application for college students to manage expenses
+- Built features to track spending from club events to daily cafe visits
+- Fixed UI bugs and optimized session state
+
+### [SplitSmart](https://github.com/adilsukumar/SplitSmart-Smart_Expense_Splitter)
+- Built a lightweight, sign-up free expense splitting tool
+- Implemented real-time expense tracking and group sharing
+- Added dynamic receipt generation
+
+### [Pawsitive Diagnostics](https://github.com/adilsukumar/Pawsitive_Diagnostics_V1_Outdated)
+- Created an AI-powered dog health monitoring system
+- Built 4 distinct diagnostic modules (BarkSense, SkinSense, AirSense, MotionSense)
+- Integrated with ESP32-based collar for real-time tracking
+
 
 # 🛜 Connect Here:
 <div align="center">
