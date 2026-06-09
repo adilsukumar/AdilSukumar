@@ -80,10 +80,11 @@
 
 ## 🏆 Team Gama (TrustLayer Labs Intern)
 
-| Project | Contribution | Pull Request |
-|----------|-------------|--------------|
-| **1** | Built OAuth login, added JWT authentication, and fixed session bugs. | [#123](https://github.com/ORG/REPO/pull/123) & [#145](https://github.com/ORG/REPO/pull/145) |
-| **2** | Built the Dashboard UI. | [#456](https://github.com/ORG/REPO/pull/456) |
+| Feature | Contribution | Commit |
+|---------|--------------|--------|
+| **1** | Added Username Search and enhanced Domain WHOIS Lookup. | [f6f9296](https://github.com/RAMINENI-TEJA-24MEI10040/TRUSTLAYERLABS-cyber-awareness/commit/f6f9296) |
+| **2** | Developed the core Cyber Awareness Module. | [294d728](https://github.com/RAMINENI-TEJA-24MEI10040/TRUSTLAYERLABS-cyber-awareness/commit/294d728) |
+| **3** | Built and expanded the crypto scams database (300+ additions/updates). | [44bbf38](https://github.com/RAMINENI-TEJA-24MEI10040/TRUSTLAYERLABS-cyber-awareness/commit/44bbf38) & [d545274](https://github.com/RAMINENI-TEJA-24MEI10040/TRUSTLAYERLABS-cyber-awareness/commit/d545274) |
 
 ## 🐍 Contribution Snake
 <img src="https://raw.githubusercontent.com/AdilSukumar/AdilSukumar/output/snake-dark.svg" />
