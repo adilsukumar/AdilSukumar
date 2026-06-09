@@ -80,10 +80,10 @@
 
 ## 🏆 Team Gama (TrustLayer Labs Intern)
 
-| Project | Contribution | PR |
-|----------|-------------|-----|
-| **Alpha** | Built OAuth login, added JWT authentication, and fixed session bugs. | [#123](https://github.com/adilsukumar) & [#145](https://github.com/adilsukumar) |
-| **Beta** | Built the Dashboard UI. | [#456](https://github.com/adilsukumar) |
+| Project | Contribution | Pull Request |
+|----------|-------------|--------------|
+| **1** | Built OAuth login, added JWT authentication, and fixed session bugs. | [#123](https://github.com/ORG/REPO/pull/123) & [#145](https://github.com/ORG/REPO/pull/145) |
+| **2** | Built the Dashboard UI. | [#456](https://github.com/ORG/REPO/pull/456) |
 
 ## 🐍 Contribution Snake
 <img src="https://raw.githubusercontent.com/AdilSukumar/AdilSukumar/output/snake-dark.svg" />
