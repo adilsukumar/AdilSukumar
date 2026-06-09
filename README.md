@@ -53,13 +53,13 @@
     <img src="https://github-readme-stats.vercel.app/api?username=AdilSukumar&theme=great-gatsby&show_icons=true" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdilSukumar&theme=great-gatsby&layout=compact" />  
 
-</div>>
+</div>
 
 
 <div align="left">
 
 ## ✍️ Dev Quote:
-"I'm 18 (2026) (My Birthday is on November 🙂), building robots, writing code, and learning every day, not to decorate a profile, but to create things that matter. Future me doesn’t get excuses. Present me does the work."
+"I build robots, write code, and learn every day. I focus on doing the actual work and creating things that matter, rather than just decorating a profile."
 
 </div>
 ## 🔝 Top Contributed Repo:
@@ -75,27 +75,14 @@
 
 # 🌟 Open Source Contributions
 
-*(Note: Contributed in others repos, and only those I want, my own repo contributions are in my repositories)*
+*(Note: Only shown contribution in others repositories)*
 
-## 🏆 Featured Contributions
+## 🏆 Team Gama (TrustLayer Labs Intern)
 
 | Project | Contribution | PR |
 |----------|-------------|-----|
-| Alpha | Authentication System | #123 |
-| Beta | Dashboard UI | #456 |
-
----
-
-## 💻 Detailed Contributions
-
-### Alpha
-- Built OAuth login
-- Added JWT authentication
-- Fixed session bugs
-
-PRs:
-- #123
-- #145
+| **Alpha** | Built OAuth login, added JWT authentication, and fixed session bugs. | [#123](https://github.com/adilsukumar) & [#145](https://github.com/adilsukumar) |
+| **Beta** | Built the Dashboard UI. | [#456](https://github.com/adilsukumar) |
 
 ## 🐍 Contribution Snake
 <img src="https://raw.githubusercontent.com/AdilSukumar/AdilSukumar/output/snake-dark.svg" />
