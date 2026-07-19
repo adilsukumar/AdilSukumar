@@ -78,7 +78,7 @@
 
 *(Note: Only shown contribution in others repositories)*
 
-## 🏆 Team Gama (TrustLayer Labs Intern)
+## 🏆 Team Gama (TrustLayer Labs Intern) ([RAMINENI-TEJA-24MEI10040/TRUSTLAYERLABS-cyber-awareness](https://github.com/RAMINENI-TEJA-24MEI10040/TRUSTLAYERLABS-cyber-awareness))
 
 | Feature | Contribution | Commit |
 |---------|--------------|--------|
@@ -86,7 +86,7 @@
 | **2** | Developed the core Cyber Awareness Module. | [294d728](https://github.com/RAMINENI-TEJA-24MEI10040/TRUSTLAYERLABS-cyber-awareness/commit/294d728) |
 | **3** | Built and expanded the crypto scams database (300+ additions/updates). | [44bbf38](https://github.com/RAMINENI-TEJA-24MEI10040/TRUSTLAYERLABS-cyber-awareness/commit/44bbf38) & [d545274](https://github.com/RAMINENI-TEJA-24MEI10040/TRUSTLAYERLABS-cyber-awareness/commit/d545274) |
 
-## 🌐 NeuroByte Website (neurobyte-vitb/Website)
+## 🌐 NeuroByte Website (neurobyte-vitb/Website) ([neurobyte-vitb/Website](https://github.com/neurobyte-vitb/Website))
 
 | Feature | Contribution | Commit |
 |---------|--------------|--------|
