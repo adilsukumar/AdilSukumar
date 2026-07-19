@@ -86,6 +86,16 @@
 | **2** | Developed the core Cyber Awareness Module. | [294d728](https://github.com/RAMINENI-TEJA-24MEI10040/TRUSTLAYERLABS-cyber-awareness/commit/294d728) |
 | **3** | Built and expanded the crypto scams database (300+ additions/updates). | [44bbf38](https://github.com/RAMINENI-TEJA-24MEI10040/TRUSTLAYERLABS-cyber-awareness/commit/44bbf38) & [d545274](https://github.com/RAMINENI-TEJA-24MEI10040/TRUSTLAYERLABS-cyber-awareness/commit/d545274) |
 
+## 🌐 NeuroByte Website (neurobyte-vitb/Website)
+
+| Feature | Contribution | Commit |
+|---------|--------------|--------|
+| **1** | Complete decoupling from Lovable and new README. | [df1cd8e](https://github.com/neurobyte-vitb/Website/commit/df1cd8e49f13aeebce9ff9eca9397f853f8319cb) |
+| **2** | Add and refine Vercel deployment configuration, Nitro plugin, and fix caching/SSR. | [bb330a1](https://github.com/neurobyte-vitb/Website/commit/bb330a192a2e89d7dd6af6f26d71237eb9ace3ac), [8fac8cc](https://github.com/neurobyte-vitb/Website/commit/8fac8cc916d57068a3511d4cc3330b3c80696a1b), [1801af2](https://github.com/neurobyte-vitb/Website/commit/1801af283c063928a7ef322293202b9b24b4f0c2), [c65c13a](https://github.com/neurobyte-vitb/Website/commit/c65c13a64e1c6240d416edc659bb98b5b23f9009) |
+| **3** | Replace placeholder icons with the official NeuroByte SVG logo and cache buster. | [a6e6155](https://github.com/neurobyte-vitb/Website/commit/a6e615561d48065bbd91826ea4ae8c2841ac93bd), [d2c3c1d](https://github.com/neurobyte-vitb/Website/commit/d2c3c1d0bcf94b947837748724130a7ceedb3f37), [75a8c08](https://github.com/neurobyte-vitb/Website/commit/75a8c0849d61cb3c7d611d59394436a490986539), [c5bb795](https://github.com/neurobyte-vitb/Website/commit/c5bb795204d78fcd94286ca79fbdbe3ec87706aa) |
+| **4** | Update boot sequence text to The NeuroByte Society. | [7c17556](https://github.com/neurobyte-vitb/Website/commit/7c1755626617ff1b3d3f0d80e2a5da60e0958894) |
+| **5** | Heavily optimize CSS rendering, layout thrashing, and canvas loop for 60FPS scrolling. | [fc09c03](https://github.com/neurobyte-vitb/Website/commit/fc09c0307dea3ecfc2f5d35f617fae3d8a3c42c4) |
+
 ## 🐍 Contribution Snake
 <img src="https://raw.githubusercontent.com/AdilSukumar/AdilSukumar/output/snake-dark.svg" />
 
