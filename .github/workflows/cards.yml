@@ -113,19 +113,43 @@ jobs:
               a.nameWithOwner.localeCompare(b.nameWithOwner)
             );
 
-            let table;
-            if (repos.length === 0) {
-              table = '_No external contributions found yet._';
-            } else {
-              table = '| Repository | Description | Language | Stars |\n|---|---|---|---|\n';
-              for (const r of repos) {
-                const desc = (r.description || '_No description_')
-                  .replace(/\|/g, '\\|')
-                  .replace(/\r?\n/g, ' ')
-                  .slice(0, 160);
-                const lang = r.primaryLanguage ? r.primaryLanguage.name : '—';
-                table += `| [${r.nameWithOwner}](${r.url}) | ${desc} | ${lang} | ${r.stargazerCount} |\n`;
+            fs.rmSync('profile/contrib', { recursive: true, force: true });
+            fs.mkdirSync('profile/contrib', { recursive: true });
+
+            const cards = [];
+            for (const r of repos) {
+              const [owner, repo] = r.nameWithOwner.split('/');
+              const slug = r.nameWithOwner.replace(/[^a-zA-Z0-9]/g, '-').toLowerCase();
+              const darkUrl = `https://github-stats-extended.vercel.app/api/pin/?username=${encodeURIComponent(owner)}&repo=${encodeURIComponent(repo)}&title_color=6DD5FA&text_color=c9d1d9&bg_color=00000000&border_color=30363d&border_radius=16`;
+              const lightUrl = `https://github-stats-extended.vercel.app/api/pin/?username=${encodeURIComponent(owner)}&repo=${encodeURIComponent(repo)}&title_color=6d28d9&text_color=24292f&bg_color=00000000&border_color=d0d7de&border_radius=16`;
+
+              try {
+                const [darkRes, lightRes] = await Promise.all([fetch(darkUrl), fetch(lightUrl)]);
+                if (!darkRes.ok || !lightRes.ok) {
+                  throw new Error(`HTTP ${darkRes.status}/${lightRes.status}`);
+                }
+                const [darkSvg, lightSvg] = await Promise.all([darkRes.text(), lightRes.text()]);
+                fs.writeFileSync(`profile/contrib/${slug}-dark.svg`, darkSvg);
+                fs.writeFileSync(`profile/contrib/${slug}-light.svg`, lightSvg);
+                cards.push({ slug, url: r.url });
+              } catch (e) {
+                core.warning(`Failed to generate pin card for ${r.nameWithOwner}: ${e.message}`);
               }
+            }
+
+            let body;
+            if (cards.length === 0) {
+              body = '_No external contributions found yet._';
+            } else {
+              body = '<div align="center">\n\n';
+              for (const c of cards) {
+                body +=
+                  `<a href="${c.url}"><picture>` +
+                  `<source media="(prefers-color-scheme: dark)" srcset="profile/contrib/${c.slug}-dark.svg" />` +
+                  `<img src="profile/contrib/${c.slug}-light.svg" width="410" />` +
+                  `</picture></a>\n`;
+              }
+              body += '\n</div>';
             }
 
             const start = '<!-- CONTRIB:START -->';
@@ -139,7 +163,7 @@ jobs:
             }
             const updated =
               readme.slice(0, startIdx + start.length) +
-              '\n\n' + table + '\n\n' +
+              '\n\n' + body + '\n\n' +
               readme.slice(endIdx);
             fs.writeFileSync('README.md', updated);
 
@@ -147,6 +171,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add profile/*.svg README.md
+          git add profile README.md
           git diff --staged --quiet || git commit -m "chore: update README cards [skip ci]"
           git push
