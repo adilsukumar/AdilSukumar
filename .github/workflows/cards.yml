@@ -70,32 +70,6 @@ jobs:
           path: profile/pin-light.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Trophy card (dark)
-        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
-        continue-on-error: true
-        with:
-          username: AdilSukumar
-          file: profile/trophy-dark.svg
-          theme: tokyonight
-          no-background: "true"
-          no-frame: "true"
-          max-cols: "4"
-          max-rows: "2"
-          token: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Trophy card (light)
-        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
-        continue-on-error: true
-        with:
-          username: AdilSukumar
-          file: profile/trophy-light.svg
-          theme: flat
-          no-background: "true"
-          no-frame: "true"
-          max-cols: "4"
-          max-rows: "2"
-          token: ${{ secrets.GITHUB_TOKEN }}
-
       - name: Commit cards
         run: |
           git config user.name "github-actions[bot]"
