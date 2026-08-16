@@ -1,0 +1,105 @@
+name: Update README Cards
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths-ignore:
+      - "profile/**"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: readme-cards
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Stats card (dark)
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=AdilSukumar&show_icons=true&title_color=6DD5FA&icon_color=A18AFF&text_color=c9d1d9&bg_color=00000000&border_color=30363d&border_radius=16
+          path: profile/stats-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Stats card (light)
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=AdilSukumar&show_icons=true&title_color=6d28d9&icon_color=0d9488&text_color=24292f&bg_color=00000000&border_color=d0d7de&border_radius=16
+          path: profile/stats-light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Top languages card (dark)
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=AdilSukumar&layout=compact&title_color=6DD5FA&text_color=c9d1d9&bg_color=00000000&border_color=30363d&border_radius=16
+          path: profile/top-langs-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Top languages card (light)
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=AdilSukumar&layout=compact&title_color=6d28d9&text_color=24292f&bg_color=00000000&border_color=d0d7de&border_radius=16
+          path: profile/top-langs-light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Pinned repo card (dark)
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=AdilSukumar&repo=Spendture_Website&title_color=6DD5FA&text_color=c9d1d9&bg_color=00000000&border_color=30363d&border_radius=16
+          path: profile/pin-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Pinned repo card (light)
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=AdilSukumar&repo=Spendture_Website&title_color=6d28d9&text_color=24292f&bg_color=00000000&border_color=d0d7de&border_radius=16
+          path: profile/pin-light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Trophy card (dark)
+        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
+        continue-on-error: true
+        with:
+          username: AdilSukumar
+          file: profile/trophy-dark.svg
+          theme: tokyonight
+          no-background: "true"
+          no-frame: "true"
+          max-cols: "4"
+          max-rows: "2"
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Trophy card (light)
+        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
+        continue-on-error: true
+        with:
+          username: AdilSukumar
+          file: profile/trophy-light.svg
+          theme: flat
+          no-background: "true"
+          no-frame: "true"
+          max-cols: "4"
+          max-rows: "2"
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/*.svg
+          git diff --staged --quiet || git commit -m "chore: update README cards [skip ci]"
+          git push

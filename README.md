@@ -62,12 +62,12 @@
 
 <div align="center">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=AdilSukumar&show_icons=true&title_color=6DD5FA&icon_color=A18AFF&text_color=c9d1d9&bg_color=00000000&border_color=30363d&border_radius=16" />
-      <img src="https://github-stats-extended.vercel.app/api?username=AdilSukumar&show_icons=true&title_color=6d28d9&icon_color=0d9488&text_color=24292f&bg_color=00000000&border_color=d0d7de&border_radius=16" />
+      <source media="(prefers-color-scheme: dark)" srcset="profile/stats-dark.svg" />
+      <img src="profile/stats-light.svg" />
     </picture>
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=AdilSukumar&layout=compact&title_color=6DD5FA&text_color=c9d1d9&bg_color=00000000&border_color=30363d&border_radius=16" />
-      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=AdilSukumar&layout=compact&title_color=6d28d9&text_color=24292f&bg_color=00000000&border_color=d0d7de&border_radius=16" />
+      <source media="(prefers-color-scheme: dark)" srcset="profile/top-langs-dark.svg" />
+      <img src="profile/top-langs-light.svg" />
     </picture>
 </div>
 
@@ -81,8 +81,8 @@
 ## 🔝 Top Contributed Repo:
 <div style="margin-bottom: 30px;" align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=AdilSukumar&repo=Spendture_Website&title_color=6DD5FA&text_color=c9d1d9&bg_color=00000000&border_color=30363d&border_radius=16" />
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=AdilSukumar&repo=Spendture_Website&title_color=6d28d9&text_color=24292f&bg_color=00000000&border_color=d0d7de&border_radius=16" alt="Contributor Stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="profile/pin-dark.svg" />
+    <img src="profile/pin-light.svg" alt="Contributor Stats" />
   </picture>
 </div>
 
