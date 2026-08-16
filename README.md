@@ -120,15 +120,16 @@
 
 <!-- CONTRIB:START -->
 
-| Repository | Description | Language | Stars |
-|---|---|---|---|
-| [RAMINENI-TEJA-24MEI10040/TRUSTLAYERLABS-cyber-awareness](https://github.com/RAMINENI-TEJA-24MEI10040/TRUSTLAYERLABS-cyber-awareness) | _No description_ | TypeScript | 2 |
-| [neurobyte-vitb/.github](https://github.com/neurobyte-vitb/.github) | 🔬 NeuroByte Society AI × Bioinformatics 🧬 Developing next-generation intelligent solutions to decode the code of life. 💻 Fostering student innovation through | — | 0 |
-| [neurobyte-vitb/Website](https://github.com/neurobyte-vitb/Website) | A cool niche Website only for us!! | TypeScript | 0 |
-| [Pawsitive-Diagnostics/.github](https://github.com/Pawsitive-Diagnostics/.github) | An AI-powered pet diagnostic collar that integrates IoT hardware with machine learning algorithms for real-time animal health monitoring. The collar continuousl | — | 0 |
-| [Pawsitive-Diagnostics/Pawsitive_Diagnostics_App](https://github.com/Pawsitive-Diagnostics/Pawsitive_Diagnostics_App) | _No description_ | — | 0 |
-| [snehaldixitofficial/SkillNests](https://github.com/snehaldixitofficial/SkillNests) | The unified student platform for PYQs, live study rooms, career guidance, and community skill-sharing. | TypeScript | 0 |
+<div align="center">
 
+<a href="https://github.com/RAMINENI-TEJA-24MEI10040/TRUSTLAYERLABS-cyber-awareness"><picture><source media="(prefers-color-scheme: dark)" srcset="profile/contrib/ramineni-teja-24mei10040-trustlayerlabs-cyber-awareness-dark.svg" /><img src="profile/contrib/ramineni-teja-24mei10040-trustlayerlabs-cyber-awareness-light.svg" width="410" /></picture></a>
+<a href="https://github.com/neurobyte-vitb/.github"><picture><source media="(prefers-color-scheme: dark)" srcset="profile/contrib/neurobyte-vitb--github-dark.svg" /><img src="profile/contrib/neurobyte-vitb--github-light.svg" width="410" /></picture></a>
+<a href="https://github.com/neurobyte-vitb/Website"><picture><source media="(prefers-color-scheme: dark)" srcset="profile/contrib/neurobyte-vitb-website-dark.svg" /><img src="profile/contrib/neurobyte-vitb-website-light.svg" width="410" /></picture></a>
+<a href="https://github.com/Pawsitive-Diagnostics/.github"><picture><source media="(prefers-color-scheme: dark)" srcset="profile/contrib/pawsitive-diagnostics--github-dark.svg" /><img src="profile/contrib/pawsitive-diagnostics--github-light.svg" width="410" /></picture></a>
+<a href="https://github.com/Pawsitive-Diagnostics/Pawsitive_Diagnostics_App"><picture><source media="(prefers-color-scheme: dark)" srcset="profile/contrib/pawsitive-diagnostics-pawsitive-diagnostics-app-dark.svg" /><img src="profile/contrib/pawsitive-diagnostics-pawsitive-diagnostics-app-light.svg" width="410" /></picture></a>
+<a href="https://github.com/snehaldixitofficial/SkillNests"><picture><source media="(prefers-color-scheme: dark)" srcset="profile/contrib/snehaldixitofficial-skillnests-dark.svg" /><img src="profile/contrib/snehaldixitofficial-skillnests-light.svg" width="410" /></picture></a>
+
+</div>
 
 <!-- CONTRIB:END -->
 
