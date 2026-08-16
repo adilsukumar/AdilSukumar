@@ -20,9 +20,27 @@
 </div>
 <br>
 
-- 🌍 My Website: https://adilsukumarwebsite.vercel.app/
-- 📫 How to reach me: adilsukumar24@gmail.com
-- 😄 Pronouns: He/Him
+<div align="center">
+
+<a href="https://adilsukumarwebsite.vercel.app/">
+<img src="https://img.shields.io/badge/Website-84C2C0?style=for-the-badge&logo=vercel&logoColor=black"/>
+</a>
+<a href="mailto:adilsukumar24@gmail.com">
+<img src="https://img.shields.io/badge/Email-adilsukumar24%40gmail.com-6DD5FA?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<img src="https://img.shields.io/badge/Pronouns-He%2FHim-A18AFF?style=for-the-badge"/>
+
+<br>
+
+<a href="https://github.com/AdilSukumar?tab=followers">
+<img src="https://img.shields.io/github/followers/AdilSukumar?style=for-the-badge&logo=github&label=Followers&color=84C2C0&labelColor=0d1117"/>
+</a>
+<a href="https://github.com/AdilSukumar/AdilSukumar/commits/main">
+<img src="https://img.shields.io/github/last-commit/AdilSukumar/AdilSukumar?style=for-the-badge&logo=github&label=Last%20Commit&color=6DD5FA&labelColor=0d1117"/>
+</a>
+<img src="https://img.shields.io/badge/Open%20to-Collaborate-A18AFF?style=for-the-badge&labelColor=0d1117"/>
+
+</div>
 
 # 💻 Tech Stack:
 <div align="center">
@@ -74,7 +92,9 @@
 <div align="left">
 
 ## ✍️ Dev Quote:
-"I build robots, write code, and learn every day. I focus on doing the actual work and creating things that matter, rather than just decorating a profile."
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=84C2C0&center=true&vCenter=true&width=800&height=50&lines=I+build+robots%2C+write+code%2C+and+learn+every+day.;I+focus+on+doing+the+actual+work+%E2%80%94+not+decorating+a+profile.;Progress+over+polish.+Always+shipping%2C+always+learning." alt="Dev Quote" /></a>
+</div>
 
 </div>
 
