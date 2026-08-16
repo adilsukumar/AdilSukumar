@@ -54,22 +54,6 @@ jobs:
           path: profile/top-langs-light.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Pinned repo card (dark)
-        uses: stats-organization/github-readme-stats-action@v2
-        with:
-          card: pin
-          options: username=AdilSukumar&repo=Spendture_Website&title_color=6DD5FA&text_color=c9d1d9&bg_color=00000000&border_color=30363d&border_radius=16
-          path: profile/pin-dark.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Pinned repo card (light)
-        uses: stats-organization/github-readme-stats-action@v2
-        with:
-          card: pin
-          options: username=AdilSukumar&repo=Spendture_Website&title_color=6d28d9&text_color=24292f&bg_color=00000000&border_color=d0d7de&border_radius=16
-          path: profile/pin-light.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-
       - name: Check out official trophy generator
         uses: actions/checkout@v4
         with:
@@ -96,10 +80,73 @@ jobs:
           GITHUB_TOKEN2: ${{ secrets.GITHUB_TOKEN }}
         run: deno run --allow-net --allow-env --allow-read --allow-write ./render_svg.ts AdilSukumar ../profile/trophy-light.svg flat
 
+      - name: Update open source contributions list
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+
+            const query = `
+              query($login: String!) {
+                user(login: $login) {
+                  repositoriesContributedTo(
+                    first: 100
+                    includeUserRepositories: false
+                    contributionTypes: [COMMIT, ISSUE, PULL_REQUEST, PULL_REQUEST_REVIEW, REPOSITORY]
+                  ) {
+                    nodes {
+                      nameWithOwner
+                      url
+                      description
+                      stargazerCount
+                      primaryLanguage { name }
+                    }
+                  }
+                }
+              }
+            `;
+
+            const result = await github.graphql(query, { login: 'AdilSukumar' });
+            const repos = result.user.repositoriesContributedTo.nodes;
+            repos.sort((a, b) =>
+              b.stargazerCount - a.stargazerCount ||
+              a.nameWithOwner.localeCompare(b.nameWithOwner)
+            );
+
+            let table;
+            if (repos.length === 0) {
+              table = '_No external contributions found yet._';
+            } else {
+              table = '| Repository | Description | Language | Stars |\n|---|---|---|---|\n';
+              for (const r of repos) {
+                const desc = (r.description || '_No description_')
+                  .replace(/\|/g, '\\|')
+                  .replace(/\r?\n/g, ' ')
+                  .slice(0, 160);
+                const lang = r.primaryLanguage ? r.primaryLanguage.name : '—';
+                table += `| [${r.nameWithOwner}](${r.url}) | ${desc} | ${lang} | ${r.stargazerCount} |\n`;
+              }
+            }
+
+            const start = '<!-- CONTRIB:START -->';
+            const end = '<!-- CONTRIB:END -->';
+            const readme = fs.readFileSync('README.md', 'utf8');
+            const startIdx = readme.indexOf(start);
+            const endIdx = readme.indexOf(end);
+            if (startIdx === -1 || endIdx === -1) {
+              core.setFailed('Contribution markers not found in README.md');
+              return;
+            }
+            const updated =
+              readme.slice(0, startIdx + start.length) +
+              '\n\n' + table + '\n\n' +
+              readme.slice(endIdx);
+            fs.writeFileSync('README.md', updated);
+
       - name: Commit cards
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add profile/*.svg
+          git add profile/*.svg README.md
           git diff --staged --quiet || git commit -m "chore: update README cards [skip ci]"
           git push
