@@ -99,6 +99,17 @@
 *(Auto-generated from live GitHub contribution data on every update — every external repo shows up here automatically, nothing hand-typed)*
 
 <!-- CONTRIB:START -->
+
+| Repository | Description | Language | Stars |
+|---|---|---|---|
+| [RAMINENI-TEJA-24MEI10040/TRUSTLAYERLABS-cyber-awareness](https://github.com/RAMINENI-TEJA-24MEI10040/TRUSTLAYERLABS-cyber-awareness) | _No description_ | TypeScript | 2 |
+| [neurobyte-vitb/.github](https://github.com/neurobyte-vitb/.github) | 🔬 NeuroByte Society AI × Bioinformatics 🧬 Developing next-generation intelligent solutions to decode the code of life. 💻 Fostering student innovation through | — | 0 |
+| [neurobyte-vitb/Website](https://github.com/neurobyte-vitb/Website) | A cool niche Website only for us!! | TypeScript | 0 |
+| [Pawsitive-Diagnostics/.github](https://github.com/Pawsitive-Diagnostics/.github) | An AI-powered pet diagnostic collar that integrates IoT hardware with machine learning algorithms for real-time animal health monitoring. The collar continuousl | — | 0 |
+| [Pawsitive-Diagnostics/Pawsitive_Diagnostics_App](https://github.com/Pawsitive-Diagnostics/Pawsitive_Diagnostics_App) | _No description_ | — | 0 |
+| [snehaldixitofficial/SkillNests](https://github.com/snehaldixitofficial/SkillNests) | The unified student platform for PYQs, live study rooms, career guidance, and community skill-sharing. | TypeScript | 0 |
+
+
 <!-- CONTRIB:END -->
 
 ## 🐍 Contribution Snake
