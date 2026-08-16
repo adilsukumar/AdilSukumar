@@ -3,7 +3,7 @@
 <div align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&pause=1000&color=F7E42C&center=true&width=650&height=61&lines=Hey+there!+I'm+Adil+Sukumar+%F0%9F%91%8B%F0%9F%8F%BC;%F0%9F%8D%80+Welcome+to+My+GitHub+Profile+%F0%9F%90%B1" alt="Typing SVG" /></a>
     <br>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=900&color=84C2C0&center=true&vCenter=true&width=600&height=35&lines=Robotics+Engineer;AI+%2F+ML+Enthusiast;Full-Stack+Developer;Math+Nerd" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=900&color=84C2C0&center=true&vCenter=true&width=600&height=35&lines=Aspiring+Developer;AI+%2F+ML+Enthusiast;Math+Nerd;Always+Learning" alt="Typing SVG" /></a>
 </div>
 <br>
 
@@ -16,12 +16,10 @@
 # 💫 About Me:
 
 <div align="center">
-  <img src="assets/terminal-intro.svg" width="100%" alt="Terminal intro animation" />
+  <img src="assets/terminal-intro.svg" width="100%" alt="Terminal intro: whoami -> Adil Sukumar, Student, Builder & Learner; focus -> C++, Python, Full-Stack Web Dev; status -> Open to AI open-source collaborations" />
 </div>
+<br>
 
-- 👀 I'm interested in programming and mathematics (yes, interesting!).
-- 🌱 I'm currently learning C++, Python, and Full-Stack Web Development.
-- 💞️ I'm looking to collaborate on AI-related open-source projects.
 - 🌍 My Website: https://adilsukumarwebsite.vercel.app/
 - 📫 How to reach me: adilsukumar24@gmail.com
 - 😄 Pronouns: He/Him
@@ -50,10 +48,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,arduino,cpp,html,css,js,git,linux,vscode,firebase,aws,docker,pytorch,firebase,supabase,mysql&theme=dark&perline=8" />
 </p>
-
-<div align="center">
-  <img src="assets/orbit-stack.svg" width="100%" alt="Orbiting tech stack" />
-</div>
+<br>
 
 <details>
   <summary align="center"><b>💁‍♂️ Click here to know more... [Expand / Collapse]</b></summary>
@@ -66,8 +61,14 @@
 # 📊 GitHub Stats:
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=AdilSukumar&show_icons=true&title_color=6DD5FA&icon_color=A18AFF&text_color=c9d1d9&bg_color=0d1117&border_color=30363d&border_radius=16" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdilSukumar&layout=compact&title_color=6DD5FA&text_color=c9d1d9&bg_color=0d1117&border_color=30363d&border_radius=16" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=AdilSukumar&show_icons=true&title_color=6DD5FA&icon_color=A18AFF&text_color=c9d1d9&bg_color=00000000&border_color=30363d&border_radius=16" />
+      <img src="https://github-readme-stats.vercel.app/api?username=AdilSukumar&show_icons=true&title_color=6d28d9&icon_color=0d9488&text_color=24292f&bg_color=00000000&border_color=d0d7de&border_radius=16" />
+    </picture>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AdilSukumar&layout=compact&title_color=6DD5FA&text_color=c9d1d9&bg_color=00000000&border_color=30363d&border_radius=16" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdilSukumar&layout=compact&title_color=6d28d9&text_color=24292f&bg_color=00000000&border_color=d0d7de&border_radius=16" />
+    </picture>
 </div>
 
 <div align="left">
@@ -79,17 +80,26 @@
 
 ## 🏆 Trophies:
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AdilSukumar&theme=onedark&no-frame=true&column=4&row=2&margin-w=8&margin-h=8" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=AdilSukumar&theme=tokyonight&no-bg=true&no-frame=true&column=4&row=2&margin-w=8&margin-h=8" />
+    <img src="https://github-profile-trophy.vercel.app/?username=AdilSukumar&theme=flat&no-bg=true&no-frame=true&column=4&row=2&margin-w=8&margin-h=8" />
+  </picture>
 </div>
 
 ## 🔝 Top Contributed Repo:
 <div style="margin-bottom: 30px;" align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AdilSukumar&repo=Spendture_Website&title_color=6DD5FA&text_color=c9d1d9&bg_color=0d1117&border_color=30363d&border_radius=16" alt="Contributor Stats" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=AdilSukumar&repo=Spendture_Website&title_color=6DD5FA&text_color=c9d1d9&bg_color=00000000&border_color=30363d&border_radius=16" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AdilSukumar&repo=Spendture_Website&title_color=6d28d9&text_color=24292f&bg_color=00000000&border_color=d0d7de&border_radius=16" alt="Contributor Stats" />
+  </picture>
 </div>
 
 ## 📈 Activity Graph:
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdilSukumar&bg_color=0d1117&color=6DD5FA&line=A18AFF&point=84C2C0&area=true&area_color=6DD5FA&title_color=6DD5FA&text_color=c9d1d9&border_color=30363d" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=AdilSukumar&bg_color=00000000&color=6DD5FA&line=A18AFF&point=84C2C0&area=true&area_color=6DD5FA&title_color=6DD5FA&text_color=c9d1d9&border_color=30363d" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdilSukumar&bg_color=00000000&color=6d28d9&line=6d28d9&point=0d9488&area=true&area_color=6d28d9&title_color=6d28d9&text_color=24292f&border_color=d0d7de" />
+  </picture>
 </div>
 
 # 🌟 Open Source Contributions
