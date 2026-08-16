@@ -70,6 +70,32 @@ jobs:
           path: profile/pin-light.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Check out official trophy generator
+        uses: actions/checkout@v4
+        with:
+          repository: ryo-ma/github-profile-trophy
+          ref: master
+          path: trophy-src
+
+      - name: Set up Deno
+        uses: denoland/setup-deno@v1
+        with:
+          deno-version: v1.x
+
+      - name: Trophy card (dark)
+        working-directory: trophy-src
+        env:
+          GITHUB_TOKEN1: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN2: ${{ secrets.GITHUB_TOKEN }}
+        run: deno run --allow-net --allow-env --allow-read --allow-write ./render_svg.ts AdilSukumar ../profile/trophy-dark.svg tokyonight
+
+      - name: Trophy card (light)
+        working-directory: trophy-src
+        env:
+          GITHUB_TOKEN1: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN2: ${{ secrets.GITHUB_TOKEN }}
+        run: deno run --allow-net --allow-env --allow-read --allow-write ./render_svg.ts AdilSukumar ../profile/trophy-light.svg flat
+
       - name: Commit cards
         run: |
           git config user.name "github-actions[bot]"

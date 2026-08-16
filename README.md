@@ -78,6 +78,14 @@
 
 </div>
 
+## 🏆 Trophies:
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="profile/trophy-dark.svg" />
+    <img src="profile/trophy-light.svg" />
+  </picture>
+</div>
+
 ## 🔝 Top Contributed Repo:
 <div style="margin-bottom: 30px;" align="center">
   <picture>
