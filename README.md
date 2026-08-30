@@ -36,12 +36,16 @@ I enjoy contributing to projects where I can improve the product as well as the 
 
 <!-- CONTRIB:START -->
 
-- [RAMINENI-TEJA-24MEI10040/TRUSTLAYERLABS-cyber-awareness](https://github.com/RAMINENI-TEJA-24MEI10040/TRUSTLAYERLABS-cyber-awareness)
-- [neurobyte-vitb/.github](https://github.com/neurobyte-vitb/.github)
-- [neurobyte-vitb/Website](https://github.com/neurobyte-vitb/Website)
-- [Pawsitive-Diagnostics/.github](https://github.com/Pawsitive-Diagnostics/.github)
-- [Pawsitive-Diagnostics/Pawsitive_Diagnostics_App](https://github.com/Pawsitive-Diagnostics/Pawsitive_Diagnostics_App)
-- [snehaldixitofficial/SkillNests](https://github.com/snehaldixitofficial/SkillNests)
+<div align="center">
+
+<a href="https://github.com/RAMINENI-TEJA-24MEI10040/TRUSTLAYERLABS-cyber-awareness"><picture><source media="(prefers-color-scheme: dark)" srcset="profile/contrib/ramineni-teja-24mei10040-trustlayerlabs-cyber-awareness-dark.svg" /><img src="profile/contrib/ramineni-teja-24mei10040-trustlayerlabs-cyber-awareness-light.svg" width="410" /></picture></a>
+<a href="https://github.com/neurobyte-vitb/.github"><picture><source media="(prefers-color-scheme: dark)" srcset="profile/contrib/neurobyte-vitb--github-dark.svg" /><img src="profile/contrib/neurobyte-vitb--github-light.svg" width="410" /></picture></a>
+<a href="https://github.com/neurobyte-vitb/Website"><picture><source media="(prefers-color-scheme: dark)" srcset="profile/contrib/neurobyte-vitb-website-dark.svg" /><img src="profile/contrib/neurobyte-vitb-website-light.svg" width="410" /></picture></a>
+<a href="https://github.com/Pawsitive-Diagnostics/.github"><picture><source media="(prefers-color-scheme: dark)" srcset="profile/contrib/pawsitive-diagnostics--github-dark.svg" /><img src="profile/contrib/pawsitive-diagnostics--github-light.svg" width="410" /></picture></a>
+<a href="https://github.com/Pawsitive-Diagnostics/Pawsitive_Diagnostics_App"><picture><source media="(prefers-color-scheme: dark)" srcset="profile/contrib/pawsitive-diagnostics-pawsitive-diagnostics-app-dark.svg" /><img src="profile/contrib/pawsitive-diagnostics-pawsitive-diagnostics-app-light.svg" width="410" /></picture></a>
+<a href="https://github.com/snehaldixitofficial/SkillNests"><picture><source media="(prefers-color-scheme: dark)" srcset="profile/contrib/snehaldixitofficial-skillnests-dark.svg" /><img src="profile/contrib/snehaldixitofficial-skillnests-light.svg" width="410" /></picture></a>
+
+</div>
 
 <!-- CONTRIB:END -->
 
