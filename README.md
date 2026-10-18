@@ -16,9 +16,9 @@
 
 <!-- PROJECTS:START -->
 
-<p><strong>30 public repositories · 7 fields</strong></p>
+<p><strong>30 public repositories · 8 fields</strong></p>
 
-<p align="center"><a href="#sector-intelligence"><img src="assets/directory/nav-intelligence.svg" width="270" alt="Artificial Intelligence &amp; Intelligent Systems"/></a> <a href="#sector-vision"><img src="assets/directory/nav-vision.svg" width="270" alt="Computer Vision &amp; Human Motion"/></a> <a href="#sector-bio"><img src="assets/directory/nav-bio.svg" width="270" alt="Bioinformatics &amp; Biomedical Research"/></a> <a href="#sector-applications"><img src="assets/directory/nav-applications.svg" width="270" alt="Web &amp; App Development"/></a> <a href="#sector-hardware"><img src="assets/directory/nav-hardware.svg" width="270" alt="Robotics, Embedded &amp; Product Design"/></a> <a href="#sector-dsa"><img src="assets/directory/nav-dsa.svg" width="270" alt="Data Structures &amp; Algorithms"/></a> <a href="#sector-personal"><img src="assets/directory/nav-personal.svg" width="270" alt="Portfolio &amp; Profile"/></a> </p>
+<p align="center"><a href="#sector-intelligence"><img src="assets/directory/nav-intelligence.svg" width="270" alt="Artificial Intelligence &amp; Intelligent Systems"/></a> <a href="#sector-vision"><img src="assets/directory/nav-vision.svg" width="270" alt="Computer Vision &amp; Human Motion"/></a> <a href="#sector-bio"><img src="assets/directory/nav-bio.svg" width="270" alt="Bioinformatics &amp; Biomedical Research"/></a> <a href="#sector-applications"><img src="assets/directory/nav-applications.svg" width="270" alt="Web &amp; App Development"/></a> <a href="#sector-hardware"><img src="assets/directory/nav-hardware.svg" width="270" alt="Robotics, Embedded &amp; Product Design"/></a> <a href="#sector-dsa"><img src="assets/directory/nav-dsa.svg" width="270" alt="Data Structures &amp; Algorithms"/></a> <a href="#sector-personal"><img src="assets/directory/nav-personal.svg" width="270" alt="Portfolio &amp; Profile"/></a> <a href="#sector-new"><img src="assets/directory/nav-new.svg" width="270" alt="Other &amp; Emerging Work"/></a> </p>
 
 <a id="sector-intelligence"></a>
 
@@ -56,7 +56,7 @@
 
 <p><picture><source media="(max-width: 600px)" srcset="assets/directory/sector-applications-mobile.svg" /><img src="assets/directory/sector-applications.svg" width="100%" alt="Web &amp; App Development. Finance, pet care, education, digital safety, community, and business applications." /></picture></p>
 
-<p><a href="https://github.com/adilsukumar/AMOM-A_Map_Of_Memories"><picture><source media="(max-width: 600px)" srcset="assets/directory/repo-4c27233d961b-mobile.svg" /><img src="assets/directory/repo-4c27233d961b.svg" width="100%" alt="A Map of Memories — Personal stories pinned to places around the world." /></picture></a></p>
+<p><a href="https://github.com/adilsukumar/AMOM-A-Map-of-Memories"><picture><source media="(max-width: 600px)" srcset="assets/directory/repo-ff64859a72fe-mobile.svg" /><img src="assets/directory/repo-ff64859a72fe.svg" width="100%" alt="A Map of Memories — Personal stories pinned to places around the world." /></picture></a></p>
 
 <p><a href="https://github.com/adilsukumar/CardSavvy"><picture><source media="(max-width: 600px)" srcset="assets/directory/repo-84055f3eeec9-mobile.svg" /><img src="assets/directory/repo-84055f3eeec9.svg" width="100%" alt="CardSavvy — Credit-card comparison and wallet prototype with heuristic scoring." /></picture></a></p>
 
@@ -96,7 +96,7 @@
 
 <p><a href="https://github.com/adilsukumar/A2Z-DataSheet-Replica"><picture><source media="(max-width: 600px)" srcset="assets/directory/repo-fe400b42c1a7-mobile.svg" /><img src="assets/directory/repo-fe400b42c1a7.svg" width="100%" alt="A2Z DSA tracker — A curriculum tracker based on the A2Z problem sheet." /></picture></a></p>
 
-<p><a href="https://github.com/adilsukumar/leetcode-company-wise-problems-2022"><picture><source media="(max-width: 600px)" srcset="assets/directory/repo-e6d8e18f60b4-mobile.svg" /><img src="assets/directory/repo-e6d8e18f60b4.svg" width="100%" alt="Company-wise problem lists · upstream fork — An upstream reference collection, dated May 2022." /></picture></a></p>
+<p><a href="https://github.com/adilsukumar/LeetCode-Company-Wise-Problems-2022"><picture><source media="(max-width: 600px)" srcset="assets/directory/repo-de6c592382da-mobile.svg" /><img src="assets/directory/repo-de6c592382da.svg" width="100%" alt="Company-wise problem lists · upstream fork — An upstream reference collection, dated May 2022." /></picture></a></p>
 
 <p><a href="https://github.com/adilsukumar/DSA-Data-Structures-and-Algorithms"><picture><source media="(max-width: 600px)" srcset="assets/directory/repo-7eca11bd1500-mobile.svg" /><img src="assets/directory/repo-7eca11bd1500.svg" width="100%" alt="DSA journey — My data-structures and algorithms practice." /></picture></a></p>
 
@@ -104,9 +104,13 @@
 
 <p><picture><source media="(max-width: 600px)" srcset="assets/directory/sector-personal-mobile.svg" /><img src="assets/directory/sector-personal.svg" width="100%" alt="Portfolio &amp; Profile. My personal website and GitHub profile." /></picture></p>
 
-<p><a href="https://github.com/adilsukumar/Website"><picture><source media="(max-width: 600px)" srcset="assets/directory/repo-b5a229ac8bec-mobile.svg" /><img src="assets/directory/repo-b5a229ac8bec.svg" width="100%" alt="Personal website — My web portfolio." /></picture></a></p>
-
 <p><a href="https://github.com/adilsukumar/AdilSukumar"><picture><source media="(max-width: 600px)" srcset="assets/directory/repo-88f094321e4c-mobile.svg" /><img src="assets/directory/repo-88f094321e4c.svg" width="100%" alt="This profile — My GitHub introduction and public project directory." /></picture></a></p>
+
+<a id="sector-new"></a>
+
+<p><picture><source media="(max-width: 600px)" srcset="assets/directory/sector-new-mobile.svg" /><img src="assets/directory/sector-new.svg" width="100%" alt="Other &amp; Emerging Work. New public projects awaiting a confident field match." /></picture></p>
+
+<p><a href="https://github.com/adilsukumar/Personal-Website"><picture><source media="(max-width: 600px)" srcset="assets/directory/repo-2f7afe597a62-mobile.svg" /><img src="assets/directory/repo-2f7afe597a62.svg" width="100%" alt="Personal-Website — ✨ A corner of the internet with my name on it – open source, ever evolving, and truly mine." /></picture></a></p>
 
 <!-- PROJECTS:END -->
 
