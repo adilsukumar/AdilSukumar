@@ -9,11 +9,11 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Adil Sukumar&#39;s GitHub Stats, Rank: B-</title>
-        <desc id="descId">Total Stars Earned: 13, Total Commits  (last year) : 1540, Total PRs: 0, Total Issues: 0, Contributed to (last year): 6</desc>
+        <desc id="descId">Total Stars Earned: 13, Total Commits  (last year) : 1519, Total PRs: 0, Total Issues: 2, Contributed to (last year): 6</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
-            fill: #6d28d9;
+            fill: #14756F;
             animation: fadeInAnimation 0.8s ease-in-out forwards;
           }
           @supports(-moz-appearance: auto) {
@@ -46,18 +46,18 @@
     .not_bold { font-weight: 400 }
     .bold { font-weight: 700 }
     .icon {
-      fill: #0d9488;
+      fill: #365E96;
       display: block;
     }
 
     .rank-circle-rim {
-      stroke: #6d28d9;
+      stroke: #14756F;
       fill: none;
       stroke-width: 6;
       opacity: 0.2;
     }
     .rank-circle {
-      stroke: #6d28d9;
+      stroke: #14756F;
       stroke-dasharray: 250;
       fill: none;
       stroke-width: 6;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 184.11425225860035;
+        stroke-dashoffset: 183.01960614671705;
       }
     }
   
@@ -118,7 +118,7 @@
           height="99%"
           stroke="#d0d7de"
           width="466"
-          fill="#00000000"
+          fill="#141320"
           stroke-opacity="1"
         />
 
@@ -214,7 +214,7 @@
         x="224.01"
         y="12.5"
         data-testid="issues"
-      >0</text>
+      >2</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">

@@ -13,7 +13,7 @@
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
-            fill: #6DD5FA;
+            fill: #FF4081;
             animation: fadeInAnimation 0.8s ease-in-out forwards;
           }
           @supports(-moz-appearance: auto) {
@@ -22,15 +22,15 @@
           }
           
     .description {
-      font: 400 13px 'Segoe UI', Ubuntu, Sans-Serif;fill: #c9d1d9;
+      font: 400 13px 'Segoe UI', Ubuntu, Sans-Serif;fill: #BCFCF6;
       
     }
-    .gray { font: 400 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #c9d1d9 }
+    .gray { font: 400 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #BCFCF6 }
     .badge { font: 600 11px 'Segoe UI', Ubuntu, Sans-Serif; }
-    .badge rect { opacity: 0.2; stroke: #c9d1d9 }
-    .badge text { fill: #c9d1d9 }
+    .badge rect { opacity: 0.2; stroke: #BCFCF6 }
+    .badge text { fill: #BCFCF6 }
 
-    .stat { font: 400 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #c9d1d9 }
+    .stat { font: 400 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #BCFCF6 }
     .stagger {
       opacity: 0;
       animation: fadeInAnimation 0.3s ease-in-out forwards;
@@ -80,9 +80,9 @@
           y="0.5"
           rx="16"
           height="99%"
-          stroke="#30363d"
+          stroke="#40364D"
           width="399"
-          fill="#00000000"
+          fill="#141320"
           stroke-opacity="1"
         />
 

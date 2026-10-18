@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="240" viewBox="0 0 640 240" role="img" aria-labelledby="title desc"><title id="title">AI Mock Interviewer</title><desc id="desc">Voice-based interview practice.</desc><defs><linearGradient id="prism"><stop stop-color="#BCFCF6"/><stop offset=".4" stop-color="#FF4081"/><stop offset=".73" stop-color="#A783F7"/><stop offset="1" stop-color="#F3D962"/></linearGradient><linearGradient id="foil" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F8F8F3"/><stop offset=".25" stop-color="#FF4081"/><stop offset=".52" stop-color="#BCFCF6"/><stop offset=".72" stop-color="#A783F7"/><stop offset="1" stop-color="#F3D962"/></linearGradient><radialGradient id="aura"><stop stop-color="#4E7AB5" stop-opacity=".2"/><stop offset="1" stop-color="#0E1116" stop-opacity="0"/></radialGradient></defs><style>
+@keyframes traverse{from{stroke-dashoffset:0}to{stroke-dashoffset:-1700}}
+@keyframes drift{50%{transform:translateX(22px)}}
+@keyframes words{0%,18%{transform:translateY(0)}25%,43%{transform:translateY(-68px)}50%,68%{transform:translateY(-136px)}75%,93%{transform:translateY(-204px)}100%{transform:translateY(-272px)}}
+@keyframes breathe{50%{opacity:.35}}
+@keyframes unveil{0%,10%{stroke-dashoffset:1100}70%,100%{stroke-dashoffset:0}}
+@keyframes cursor{50%{opacity:0}}
+@keyframes sheen{0%,12%{transform:translateX(-1400px)}65%,100%{transform:translateX(1400px)}}
+@keyframes lift{50%{transform:translateY(-7px)}}
+.travel{display:none}
+.drift{animation:drift 12s ease-in-out infinite}
+.words{animation:words 24s cubic-bezier(.65,0,.2,1) infinite}
+.pulse{animation:breathe 7s ease-in-out infinite}
+.draw{stroke-dasharray:1100;animation:unveil 14s ease-in-out infinite}
+.cursor{animation:cursor 1.4s steps(1,end) infinite}
+.sheen{animation:sheen 15s cubic-bezier(.4,0,.2,1) infinite}
+.lift{animation:lift 11s ease-in-out infinite}
+@media(prefers-reduced-motion:reduce){.travel,.drift,.words,.pulse,.draw,.cursor,.field,.sheen,.lift{animation:none!important}}
+
+@keyframes mini-scan{0%,100%{transform:translateY(0)}50%{transform:translateY(42px)}}
+@keyframes mini-dash{to{stroke-dashoffset:-180}}
+@keyframes mini-turn{to{transform:rotate(360deg)}}
+@keyframes mini-twist{50%{transform:scaleX(-1)}}
+@keyframes mini-swim{0%,100%{transform:translateX(-8px)}50%{transform:translateX(18px)}}
+@keyframes mini-flap{50%{transform:scaleX(.5)}}
+@keyframes mini-route{0%,100%{transform:translateX(-12px)}50%{transform:translateX(18px)}}
+@keyframes mini-level{0%,100%{transform:scaleY(.28)}50%{transform:scaleY(1)}}
+@keyframes mini-bob{50%{transform:translateY(-9px)}}
+@keyframes mini-blink{0%,100%{opacity:.2}50%{opacity:1}}
+@keyframes mini-fan{50%{transform:rotate(11deg)}}
+@keyframes mini-progress{0%,10%{stroke-dashoffset:140}75%,100%{stroke-dashoffset:0}}
+@keyframes mini-sort{0%,100%{transform:translateY(0)}50%{transform:translateY(-22px)}}
+.mini-scan{animation:mini-scan 4s ease-in-out infinite}
+.mini-dash{stroke-dasharray:9 12;animation:mini-dash 5s linear infinite}
+.mini-turn{transform-box:fill-box;transform-origin:center;animation:mini-turn 9s linear infinite}
+.mini-twist{transform-origin:100px 60px;animation:mini-twist 7s ease-in-out infinite}
+.mini-swim{animation:mini-swim 5s ease-in-out infinite}.mini-flap{transform-box:fill-box;transform-origin:right;animation:mini-flap 1s ease-in-out infinite}
+.mini-route{animation:mini-route 7s ease-in-out infinite}
+.mini-level{transform-box:fill-box;transform-origin:bottom;animation:mini-level 2s ease-in-out infinite}
+.mini-bob{animation:mini-bob 4s ease-in-out infinite}.mini-blink{animation:mini-blink 4s ease-in-out infinite}
+.mini-fan{transform-origin:100px 100px;animation:mini-fan 5s ease-in-out infinite}
+.mini-progress{stroke-dasharray:140;animation:mini-progress 5s ease-in-out infinite}
+.mini-sort{animation:mini-sort 5s ease-in-out infinite}
+@media(prefers-reduced-motion:reduce){.mini-scan,.mini-dash,.mini-turn,.mini-twist,.mini-swim,.mini-flap,.mini-route,.mini-level,.mini-bob,.mini-blink,.mini-fan,.mini-progress,.mini-sort{animation:none!important}}
+</style><rect width="100%" height="100%" fill="#0E1116"/><path d="M32 238H608" fill="none" stroke="#343044" stroke-width="1" /><path d="M32 238H608" fill="none" stroke="url(#prism)" stroke-width="2" class="travel" style="animation-delay:-5.0s"/><path d="M17 19V218" fill="none" stroke="url(#prism)" stroke-width="2" opacity=".65"/><text x="31" y="45" fill="#F8F8F3" font-size="28" font-weight="600" font-family="Arial, Helvetica, sans-serif" >AI Mock Interviewer</text><text x="32" y="156" fill="#BCFCF6" font-size="19" font-weight="400" font-family="Arial, Helvetica, sans-serif" >Voice-based interview practice.</text><g transform="translate(440 10) scale(.9)"><svg x="0" y="0" width="200" height="120" viewBox="0 0 200 120" data-motion-kind="conversation"><rect x="28" y="23" width="93" height="47" rx="8" stroke="#A783F7" stroke-width="1.6" fill="none"/><path d="M47 70L39 86L68 70" stroke="#A783F7" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class=""/><rect x="90" y="61" width="84" height="40" rx="8" stroke="#FF4081" stroke-width="1.6" fill="none"/><path d="M151 101L159 111L135 101" stroke="#FF4081" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class=""/><g class="mini-dash" ><path d="M43 44H105M104 80H159" stroke="#F3D962" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class=""/></g></svg></g></svg>

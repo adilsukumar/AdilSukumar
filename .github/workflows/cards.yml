@@ -14,7 +14,7 @@ permissions:
 
 concurrency:
   group: readme-cards
-  cancel-in-progress: true
+  cancel-in-progress: false
 
 jobs:
   build:
@@ -26,7 +26,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=AdilSukumar&show_icons=true&title_color=6DD5FA&icon_color=A18AFF&text_color=c9d1d9&bg_color=00000000&border_color=30363d&border_radius=16
+          options: username=AdilSukumar&show_icons=true&title_color=FF4081&icon_color=F3D962&text_color=BCFCF6&bg_color=141320&border_color=30363d&border_radius=16
           path: profile/stats-dark.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -34,7 +34,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=AdilSukumar&show_icons=true&title_color=6d28d9&icon_color=0d9488&text_color=24292f&bg_color=00000000&border_color=d0d7de&border_radius=16
+          options: username=AdilSukumar&show_icons=true&title_color=14756F&icon_color=365E96&text_color=24292f&bg_color=ffffff&border_color=d0d7de&border_radius=16
           path: profile/stats-light.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -42,7 +42,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=AdilSukumar&layout=compact&title_color=6DD5FA&text_color=c9d1d9&bg_color=00000000&border_color=30363d&border_radius=16
+          options: username=AdilSukumar&layout=compact&title_color=FF4081&text_color=BCFCF6&bg_color=141320&border_color=30363d&border_radius=16
           path: profile/top-langs-dark.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -50,7 +50,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=AdilSukumar&layout=compact&title_color=6d28d9&text_color=24292f&bg_color=00000000&border_color=d0d7de&border_radius=16
+          options: username=AdilSukumar&layout=compact&title_color=14756F&text_color=24292f&bg_color=ffffff&border_color=d0d7de&border_radius=16
           path: profile/top-langs-light.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -120,8 +120,8 @@ jobs:
             for (const r of repos) {
               const [owner, repo] = r.nameWithOwner.split('/');
               const slug = r.nameWithOwner.replace(/[^a-zA-Z0-9]/g, '-').toLowerCase();
-              const darkUrl = `https://github-stats-extended.vercel.app/api/pin/?username=${encodeURIComponent(owner)}&repo=${encodeURIComponent(repo)}&title_color=6DD5FA&text_color=c9d1d9&bg_color=00000000&border_color=30363d&border_radius=16`;
-              const lightUrl = `https://github-stats-extended.vercel.app/api/pin/?username=${encodeURIComponent(owner)}&repo=${encodeURIComponent(repo)}&title_color=6d28d9&text_color=24292f&bg_color=00000000&border_color=d0d7de&border_radius=16`;
+              const darkUrl = `https://github-stats-extended.vercel.app/api/pin/?username=${encodeURIComponent(owner)}&repo=${encodeURIComponent(repo)}&title_color=FF4081&text_color=BCFCF6&bg_color=141320&border_color=30363d&border_radius=16`;
+              const lightUrl = `https://github-stats-extended.vercel.app/api/pin/?username=${encodeURIComponent(owner)}&repo=${encodeURIComponent(repo)}&title_color=14756F&text_color=24292f&bg_color=ffffff&border_color=d0d7de&border_radius=16`;
 
               try {
                 const [darkRes, lightRes] = await Promise.all([fetch(darkUrl), fetch(lightUrl)]);
@@ -174,3 +174,4 @@ jobs:
           git add profile README.md
           git diff --staged --quiet || git commit -m "chore: update README cards [skip ci]"
           git push
+

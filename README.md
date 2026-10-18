@@ -1,122 +1,129 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:84C2C0,50:6DD5FA,100:A18AFF&height=120&section=header&fontSize=90&fontAlignY=45&animation=fadeIn&stroke=12345&strokeWidth=50"/>
+<!-- Identity 11: photo-based greeting, animated sector directory, and a consistent reference palette. -->
+<p><picture><source media="(max-width: 600px)" srcset="assets/identity/opening-mobile.svg" /><img src="assets/identity/opening.svg" width="100%" alt="Adil Sukumar. Artificial Intelligence at Vellore Institute of Technology (VIT), India. Animated typographic identity with a waving avatar based on my supplied photograph." /></picture></p>
 
-<div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&pause=1000&color=F7E42C&center=true&width=650&height=61&lines=Hey+there!+I'm+Adil+Sukumar+%F0%9F%91%8B%F0%9F%8F%BC;%F0%9F%8D%80+Welcome+to+My+GitHub+Profile+%F0%9F%90%B1" alt="Typing SVG" /></a>
-    <br>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=900&color=84C2C0&center=true&vCenter=true&width=600&height=35&lines=Aspiring+Developer;AI+%2F+ML+Enthusiast;Math+Nerd;Always+Learning" alt="Typing SVG" /></a>
-</div>
-<br>
+<p align="center"><a href="#about"><img src="assets/identity/nav-about.svg" width="150" alt="About"/></a> <a href="#toolkit"><img src="assets/identity/nav-toolkit.svg" width="150" alt="Toolkit"/></a> <a href="#projects"><img src="assets/identity/nav-projects.svg" width="150" alt="Projects"/></a> <a href="#activity"><img src="assets/identity/nav-activity.svg" width="150" alt="Activity"/></a> <a href="#contact"><img src="assets/identity/nav-contact.svg" width="150" alt="Contact"/></a> </p>
 
-<div align="center">
+<a id="about"></a>
+<p><picture><source media="(max-width: 600px)" srcset="assets/identity/about-mobile.svg"/><img src="assets/identity/about.svg" width="100%" alt="Adil Sukumar. Studying Artificial Intelligence and Bioinformatics at Vellore Institute of Technology (VIT), with Artificial Intelligence as my primary focus. C and DSA, biomedical research, applications and physical systems."/></picture></p>
 
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=AdilSukumar&color=6DD5FA&style=flat-square)
+<p><picture><source media="(max-width: 600px)" srcset="assets/identity/approach-mobile.svg" /><img src="assets/identity/approach.svg" width="100%" alt="Question. Build. Iterate. Start with a question, make something testable, and improve it." /></picture></p>
 
-</div>
+<a id="toolkit"></a>
+<p><picture><source media="(max-width: 600px)" srcset="assets/identity/tools-mobile.svg"/><img src="assets/identity/tools.svg" width="100%" alt="Technologies I have used or studied, including C and data structures. See the seven groups in the toolkit."/></picture></p>
 
-# 💫 About Me:
+<a id="projects"></a>
+<p><picture><source media="(max-width: 600px)" srcset="assets/identity/projects-mobile.svg" /><img src="assets/identity/projects.svg" width="100%" alt="All my public projects, organized by sector. Choose the field that fits what you are looking for." /></picture></p>
 
-<div align="center">
-  <img src="assets/terminal-intro.svg" width="100%" alt="Terminal intro: whoami -> Adil Sukumar, Student, Builder & Learner; focus -> C++, Python, Full-Stack Web Dev; status -> Open to AI open-source collaborations" />
-</div>
-<br>
+<!-- PROJECTS:START -->
 
-<div align="center">
+<p><strong>30 public repositories · 7 fields</strong></p>
 
-<a href="https://www.adilsukumar.xyz/">
-<img src="https://img.shields.io/badge/Website-84C2C0?style=for-the-badge&logo=vercel&logoColor=black"/>
-</a>
-<a href="mailto:adilsukumar24@gmail.com">
-<img src="https://img.shields.io/badge/Email-adilsukumar24%40gmail.com-6DD5FA?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<img src="https://img.shields.io/badge/Pronouns-He%2FHim-A18AFF?style=for-the-badge"/>
+<p align="center"><a href="#sector-intelligence"><img src="assets/directory/nav-intelligence.svg" width="270" alt="Artificial Intelligence &amp; Intelligent Systems"/></a> <a href="#sector-vision"><img src="assets/directory/nav-vision.svg" width="270" alt="Computer Vision &amp; Human Motion"/></a> <a href="#sector-bio"><img src="assets/directory/nav-bio.svg" width="270" alt="Bioinformatics &amp; Biomedical Research"/></a> <a href="#sector-applications"><img src="assets/directory/nav-applications.svg" width="270" alt="Web &amp; App Development"/></a> <a href="#sector-hardware"><img src="assets/directory/nav-hardware.svg" width="270" alt="Robotics, Embedded &amp; Product Design"/></a> <a href="#sector-dsa"><img src="assets/directory/nav-dsa.svg" width="270" alt="Data Structures &amp; Algorithms"/></a> <a href="#sector-personal"><img src="assets/directory/nav-personal.svg" width="270" alt="Portfolio &amp; Profile"/></a> </p>
 
-<br>
+<a id="sector-intelligence"></a>
 
-<a href="https://github.com/AdilSukumar?tab=followers">
-<img src="https://img.shields.io/github/followers/AdilSukumar?style=for-the-badge&logo=github&label=Followers&color=84C2C0&labelColor=0d1117"/>
-</a>
-<a href="https://github.com/AdilSukumar/AdilSukumar/commits/main">
-<img src="https://img.shields.io/github/last-commit/AdilSukumar/AdilSukumar?style=for-the-badge&logo=github&label=Last%20Commit&color=6DD5FA&labelColor=0d1117"/>
-</a>
-<img src="https://img.shields.io/badge/Open%20to-Collaborate-A18AFF?style=for-the-badge&labelColor=0d1117"/>
+<p><picture><source media="(max-width: 600px)" srcset="assets/directory/sector-intelligence-mobile.svg" /><img src="assets/directory/sector-intelligence.svg" width="100%" alt="Artificial Intelligence &amp; Intelligent Systems. Models, language tools, voice assistants, research tools, and interview intelligence." /></picture></p>
 
-</div>
+<p><a href="https://github.com/adilsukumar/AI-Mock-Interviewer"><picture><source media="(max-width: 600px)" srcset="assets/directory/repo-64645aec6866-mobile.svg" /><img src="assets/directory/repo-64645aec6866.svg" width="100%" alt="AI Mock Interviewer — Voice-based interview practice." /></picture></a></p>
 
-# 💻 Tech Stack:
-<div align="center">
+<p><a href="https://github.com/adilsukumar/Atlas-Voice-Assistant"><picture><source media="(max-width: 600px)" srcset="assets/directory/repo-ba58676e699c-mobile.svg" /><img src="assets/directory/repo-ba58676e699c.svg" width="100%" alt="Atlas Voice Assistant — Python voice/text commands with optional speech recognition." /></picture></a></p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<p><a href="https://github.com/adilsukumar/ATS-Resume-Job-Fit-Analyzer"><picture><source media="(max-width: 600px)" srcset="assets/directory/repo-ae20ec735920-mobile.svg" /><img src="assets/directory/repo-ae20ec735920.svg" width="100%" alt="Resume-to-Job Fit Analyzer — NLP-based resume and job-description comparison." /></picture></a></p>
 
-</div>
+<p><a href="https://github.com/adilsukumar/SciGenius-Research-Paper-Builder"><picture><source media="(max-width: 600px)" srcset="assets/directory/repo-657725356f4c-mobile.svg" /><img src="assets/directory/repo-657725356f4c.svg" width="100%" alt="SciGenius — NLP knowledge graphs and research-writing tools." /></picture></a></p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,arduino,cpp,html,css,js,git,linux,vscode,firebase,aws,docker,pytorch,firebase,supabase,mysql&theme=dark&perline=8" />
-</p>
-<br>
+<p><a href="https://github.com/adilsukumar/Whisper-for-Windows"><picture><source media="(max-width: 600px)" srcset="assets/directory/repo-a37ebd34a6d6-mobile.svg" /><img src="assets/directory/repo-a37ebd34a6d6.svg" width="100%" alt="Whisper for Windows — Windows voice and screen assistant; developer prototype." /></picture></a></p>
 
-<details>
-  <summary align="center"><b>💁‍♂️ Click here to know more... [Expand / Collapse]</b></summary>
+<a id="sector-vision"></a>
 
-<br>
+<p><picture><source media="(max-width: 600px)" srcset="assets/directory/sector-vision-mobile.svg" /><img src="assets/directory/sector-vision.svg" width="100%" alt="Computer Vision &amp; Human Motion. Visual perception, helmet detection, and pose estimation." /></picture></p>
 
-<!-- Left-aligned text only -->
-<div align="left">
+<p><a href="https://github.com/adilsukumar/Posture-Detection"><picture><source media="(max-width: 600px)" srcset="assets/directory/repo-ad1502e83ee2-mobile.svg" /><img src="assets/directory/repo-ad1502e83ee2.svg" width="100%" alt="Posture Monitor — Browser-based pose estimation and posture feedback." /></picture></a></p>
 
-# 📊 GitHub Stats:
+<p><a href="https://github.com/adilsukumar/Smart-Helmet-Vision"><picture><source media="(max-width: 600px)" srcset="assets/directory/repo-8a9839ffbb76-mobile.svg" /><img src="assets/directory/repo-8a9839ffbb76.svg" width="100%" alt="Smart Helmet Vision — Helmet-vision research, a web demo, and Python tooling." /></picture></a></p>
 
-<div align="center">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="profile/stats-dark.svg" />
-      <img src="profile/stats-light.svg" />
-    </picture>
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="profile/top-langs-dark.svg" />
-      <img src="profile/top-langs-light.svg" />
-    </picture>
-</div>
+<a id="sector-bio"></a>
 
-<div align="left">
+<p><picture><source media="(max-width: 600px)" srcset="assets/directory/sector-bio-mobile.svg" /><img src="assets/directory/sector-bio.svg" width="100%" alt="Bioinformatics &amp; Biomedical Research. Genomic pipelines, ECG modelling, and reproducible biomedical analysis." /></picture></p>
 
-## ✍️ Dev Quote:
-<div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=84C2C0&center=true&vCenter=true&width=800&height=50&lines=I+build+robots%2C+write+code%2C+and+learn+every+day.;I+focus+on+doing+the+actual+work+%E2%80%94+not+decorating+a+profile.;Progress+over+polish.+Always+shipping%2C+always+learning." alt="Dev Quote" /></a>
-</div>
+<p><a href="https://github.com/adilsukumar/KAN-ECG-Research-Paper"><picture><source media="(max-width: 600px)" srcset="assets/directory/repo-95bdb81b107c-mobile.svg" /><img src="assets/directory/repo-95bdb81b107c.svg" width="100%" alt="KAN × ECG — Cross-dataset ECG classification and symbolic fidelity research." /></picture></a></p>
 
-</div>
+<p><a href="https://github.com/adilsukumar/SCLC-Somatic-Variant-Analysis"><picture><source media="(max-width: 600px)" srcset="assets/directory/repo-9215fb71c881-mobile.svg" /><img src="assets/directory/repo-9215fb71c881.svg" width="100%" alt="SCLC somatic variant analysis — A sequencing-to-variant pipeline for CD56+ circulating tumor cells." /></picture></a></p>
 
-## 🏆 Trophies:
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="profile/trophy-dark.svg" />
-    <img src="profile/trophy-light.svg" />
-  </picture>
-</div>
+<p><a href="https://github.com/adilsukumar/Zebrafish-Formaldehyde-Toxicity"><picture><source media="(max-width: 600px)" srcset="assets/directory/repo-13f9efd0bff5-mobile.svg" /><img src="assets/directory/repo-13f9efd0bff5.svg" width="100%" alt="Zebrafish formaldehyde toxicity — Reproducible adult-zebrafish screening analysis with documented limitations." /></picture></a></p>
 
-## 📈 Activity Graph:
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=AdilSukumar&bg_color=00000000&color=6DD5FA&line=A18AFF&point=84C2C0&area=true&area_color=6DD5FA&title_color=6DD5FA&text_color=c9d1d9&border_color=30363d" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdilSukumar&bg_color=00000000&color=6d28d9&line=6d28d9&point=0d9488&area=true&area_color=6d28d9&title_color=6d28d9&text_color=24292f&border_color=d0d7de" />
-  </picture>
-</div>
+<a id="sector-applications"></a>
 
-# 🌟 Open Source Contributions
+<p><picture><source media="(max-width: 600px)" srcset="assets/directory/sector-applications-mobile.svg" /><img src="assets/directory/sector-applications.svg" width="100%" alt="Web &amp; App Development. Finance, pet care, education, digital safety, community, and business applications." /></picture></p>
 
-*(Auto-generated from live GitHub contribution data on every update — every external repo shows up here automatically, nothing hand-typed)*
+<p><a href="https://github.com/adilsukumar/AMOM-A_Map_Of_Memories"><picture><source media="(max-width: 600px)" srcset="assets/directory/repo-4c27233d961b-mobile.svg" /><img src="assets/directory/repo-4c27233d961b.svg" width="100%" alt="A Map of Memories — Personal stories pinned to places around the world." /></picture></a></p>
+
+<p><a href="https://github.com/adilsukumar/CardSavvy"><picture><source media="(max-width: 600px)" srcset="assets/directory/repo-84055f3eeec9-mobile.svg" /><img src="assets/directory/repo-84055f3eeec9.svg" width="100%" alt="CardSavvy — Credit-card comparison and wallet prototype with heuristic scoring." /></picture></a></p>
+
+<p><a href="https://github.com/adilsukumar/CyberSHE-WiCyS-Hackathon"><picture><source media="(max-width: 600px)" srcset="assets/directory/repo-17899ab3bdfb-mobile.svg" /><img src="assets/directory/repo-17899ab3bdfb.svg" width="100%" alt="CyberSHE — A hackathon project focused on women’s digital safety." /></picture></a></p>
+
+<p><a href="https://github.com/adilsukumar/Finly-Personal-Finance"><picture><source media="(max-width: 600px)" srcset="assets/directory/repo-5aee743af09e-mobile.svg" /><img src="assets/directory/repo-5aee743af09e.svg" width="100%" alt="Finly — Personal finance and expense tracking." /></picture></a></p>
+
+<p><a href="https://github.com/adilsukumar/Lead-Radar"><picture><source media="(max-width: 600px)" srcset="assets/directory/repo-17c8df7c76d2-mobile.svg" /><img src="assets/directory/repo-17c8df7c76d2.svg" width="100%" alt="Lead Radar — Startup lead discovery and qualification." /></picture></a></p>
+
+<p><a href="https://github.com/adilsukumar/LeadForge-Pro"><picture><source media="(max-width: 600px)" srcset="assets/directory/repo-8b0042c37bec-mobile.svg" /><img src="assets/directory/repo-8b0042c37bec.svg" width="100%" alt="LeadForge Pro — Business discovery and agency lead-generation tools." /></picture></a></p>
+
+<p><a href="https://github.com/adilsukumar/Moomentum"><picture><source media="(max-width: 600px)" srcset="assets/directory/repo-d0f27e671842-mobile.svg" /><img src="assets/directory/repo-d0f27e671842.svg" width="100%" alt="Moomentum — Animal-care interface prototypes and sensor-analysis experiments." /></picture></a></p>
+
+<p><a href="https://github.com/adilsukumar/Pawsitive-Diagnostics-V1"><picture><source media="(max-width: 600px)" srcset="assets/directory/repo-99770d40c640-mobile.svg" /><img src="assets/directory/repo-99770d40c640.svg" width="100%" alt="Pawsitive Diagnostics · v1 — A pet-health monitoring web interface." /></picture></a></p>
+
+<p><a href="https://github.com/adilsukumar/Pawsitive-Diagnostics-V2"><picture><source media="(max-width: 600px)" srcset="assets/directory/repo-fa0e88fe5a0c-mobile.svg" /><img src="assets/directory/repo-fa0e88fe5a0c.svg" width="100%" alt="Pawsitive Diagnostics · v2 — A further pet-care application prototype." /></picture></a></p>
+
+<p><a href="https://github.com/adilsukumar/Pawsitive-Diagnostics-Website"><picture><source media="(max-width: 600px)" srcset="assets/directory/repo-7a8e157e3150-mobile.svg" /><img src="assets/directory/repo-7a8e157e3150.svg" width="100%" alt="Pawsitive · website — The project’s public-facing landing page." /></picture></a></p>
+
+<p><a href="https://github.com/adilsukumar/SkillNests"><picture><source media="(max-width: 600px)" srcset="assets/directory/repo-32aac15baf79-mobile.svg" /><img src="assets/directory/repo-32aac15baf79.svg" width="100%" alt="SkillNests — A collaborative educational platform." /></picture></a></p>
+
+<p><a href="https://github.com/adilsukumar/Spendture-Website"><picture><source media="(max-width: 600px)" srcset="assets/directory/repo-c9513bbdbd2d-mobile.svg" /><img src="assets/directory/repo-c9513bbdbd2d.svg" width="100%" alt="Spendture · website — The Spendture finance platform’s website." /></picture></a></p>
+
+<p><a href="https://github.com/adilsukumar/SplitSmart-Expense-Splitter"><picture><source media="(max-width: 600px)" srcset="assets/directory/repo-aafa558759bf-mobile.svg" /><img src="assets/directory/repo-aafa558759bf.svg" width="100%" alt="SplitSmart — Shared expenses and group balances." /></picture></a></p>
+
+<a id="sector-hardware"></a>
+
+<p><picture><source media="(max-width: 600px)" srcset="assets/directory/sector-hardware-mobile.svg" /><img src="assets/directory/sector-hardware.svg" width="100%" alt="Robotics, Embedded &amp; Product Design. Carrying robots, connected devices, and assistive physical-product research." /></picture></p>
+
+<p><a href="https://github.com/adilsukumar/Portiva"><picture><source media="(max-width: 600px)" srcset="assets/directory/repo-3ac5897cef39-mobile.svg" /><img src="assets/directory/repo-3ac5897cef39.svg" width="100%" alt="Portiva — Android + Arduino carrying robot; hardware validation in progress." /></picture></a></p>
+
+<p><a href="https://github.com/adilsukumar/SoftSpace"><picture><source media="(max-width: 600px)" srcset="assets/directory/repo-691e55b6c067-mobile.svg" /><img src="assets/directory/repo-691e55b6c067.svg" width="100%" alt="SoftSpace — Passive-headphone and glasses-friendly cushion research prototypes." /></picture></a></p>
+
+<a id="sector-dsa"></a>
+
+<p><picture><source media="(max-width: 600px)" srcset="assets/directory/sector-dsa-mobile.svg" /><img src="assets/directory/sector-dsa.svg" width="100%" alt="Data Structures &amp; Algorithms. Problem-solving practice, curriculum trackers, and reference collections." /></picture></p>
+
+<p><a href="https://github.com/adilsukumar/A2Z-DataSheet-Replica"><picture><source media="(max-width: 600px)" srcset="assets/directory/repo-fe400b42c1a7-mobile.svg" /><img src="assets/directory/repo-fe400b42c1a7.svg" width="100%" alt="A2Z DSA tracker — A curriculum tracker based on the A2Z problem sheet." /></picture></a></p>
+
+<p><a href="https://github.com/adilsukumar/leetcode-company-wise-problems-2022"><picture><source media="(max-width: 600px)" srcset="assets/directory/repo-e6d8e18f60b4-mobile.svg" /><img src="assets/directory/repo-e6d8e18f60b4.svg" width="100%" alt="Company-wise problem lists · upstream fork — An upstream reference collection, dated May 2022." /></picture></a></p>
+
+<p><a href="https://github.com/adilsukumar/DSA-Data-Structures-and-Algorithms"><picture><source media="(max-width: 600px)" srcset="assets/directory/repo-7eca11bd1500-mobile.svg" /><img src="assets/directory/repo-7eca11bd1500.svg" width="100%" alt="DSA journey — My data-structures and algorithms practice." /></picture></a></p>
+
+<a id="sector-personal"></a>
+
+<p><picture><source media="(max-width: 600px)" srcset="assets/directory/sector-personal-mobile.svg" /><img src="assets/directory/sector-personal.svg" width="100%" alt="Portfolio &amp; Profile. My personal website and GitHub profile." /></picture></p>
+
+<p><a href="https://github.com/adilsukumar/Website"><picture><source media="(max-width: 600px)" srcset="assets/directory/repo-b5a229ac8bec-mobile.svg" /><img src="assets/directory/repo-b5a229ac8bec.svg" width="100%" alt="Personal website — My web portfolio." /></picture></a></p>
+
+<p><a href="https://github.com/adilsukumar/AdilSukumar"><picture><source media="(max-width: 600px)" srcset="assets/directory/repo-88f094321e4c-mobile.svg" /><img src="assets/directory/repo-88f094321e4c.svg" width="100%" alt="This profile — My GitHub introduction and public project directory." /></picture></a></p>
+
+<!-- PROJECTS:END -->
+
+<a id="activity"></a>
+<p><picture><source media="(max-width: 600px)" srcset="assets/identity/activity-mobile.svg" /><img src="assets/identity/activity.svg" width="100%" alt="Activity — learning, building, contributing." /></picture></p>
+
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="profile/stats-dark.svg" /><img src="profile/stats-light.svg" width="54%" alt="GitHub activity statistics generated by the profile workflow." /></picture><picture><source media="(prefers-color-scheme: dark)" srcset="profile/top-langs-dark.svg" /><img src="profile/top-langs-light.svg" width="40%" alt="Repository code language distribution, not a measure of proficiency." /></picture></p>
+
+<p><picture><source media="(prefers-color-scheme: dark)" srcset="profile/trophy-dark.svg" /><img src="profile/trophy-light.svg" width="100%" alt="GitHub profile trophies." /></picture></p>
+
+<!-- EXTERNAL-CARDS -->
+<p align="center"><a href="https://github.com/adilsukumar"><img src="profile/streak.svg" width="90%" alt="GitHub contribution streak"/></a></p>
+<p align="center"><a href="https://leetcode.com/u/adilsukumar/"><img src="profile/leetcode.svg" width="90%" alt="Adil’s LeetCode practice statistics"/></a></p>
+
+<details><summary><b>Open-source contributions & contribution snake</b></summary>
+<br />
+External repositories represented in my GitHub contribution data, including commits, issues, pull requests, reviews, or repository participation.
 
 <!-- CONTRIB:START -->
 
@@ -133,44 +140,14 @@
 
 <!-- CONTRIB:END -->
 
-## 🐍 Contribution Snake
-<img src="https://raw.githubusercontent.com/AdilSukumar/AdilSukumar/output/snake-dark.svg" />
 
-# 🛜 Connect Here:
-<div align="center">
 
-<a href="mailto:adilsukumar24@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/adilsukumar/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://instagram.com/adilsukumar">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://github.com/adilsukumar/">
-<img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.adilsukumar.xyz/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://adilsukumar.blogspot.com">
-<img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=hashnode&logoColor=white"/>
-</a>
-
-</div>
-<br><br>
-
+<img src="https://raw.githubusercontent.com/AdilSukumar/AdilSukumar/output/snake-dark.svg" width="100%" alt="Animated contribution snake." />
 </details>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:84C2C0,50:6DD5FA,100:A18AFF&height=100&section=footer&fontSize=90&fontAlignY=45&animation=fadeIn&stroke=12345&strokeWidth=50"/>
+<a id="contact"></a>
+<p><picture><source media="(max-width: 600px)" srcset="assets/identity/contact-mobile.svg" /><img src="assets/identity/contact.svg" width="100%" alt="Have a question, an idea, or something to build? I am open to AI open-source collaborations." /></picture></p>
 
-<!---
-AdilSukumar/AdilSukumar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center"><a href="https://www.adilsukumar.xyz/"><img src="assets/identity/social-website.svg" width="150" alt="Website"/></a> <a href="https://github.com/adilsukumar"><img src="assets/identity/social-github.svg" width="150" alt="GitHub"/></a> <a href="https://linkedin.com/in/adilsukumar/"><img src="assets/identity/social-linkedin.svg" width="150" alt="LinkedIn"/></a> <a href="mailto:adilsukumar24@gmail.com"><img src="assets/identity/social-email.svg" width="150" alt="Email"/></a> <a href="https://leetcode.com/u/adilsukumar/"><img src="assets/identity/social-leetcode.svg" width="150" alt="LeetCode"/></a> <a href="https://adilsukumar.blogspot.com"><img src="assets/identity/social-blog.svg" width="150" alt="Blog"/></a> <a href="https://instagram.com/adilsukumar"><img src="assets/identity/social-instagram.svg" width="150" alt="Instagram"/></a></p>
+
+<p><picture><source media="(max-width: 600px)" srcset="assets/identity/closing-mobile.svg"/><img src="assets/identity/closing.svg" width="100%" alt="If you laugh at your old code then you are learning"/></picture></p>
