@@ -22,7 +22,7 @@
 
 <div align="center">
 
-<a href="https://adilsukumarwebsite.vercel.app/">
+<a href="https://www.adilsukumar.xyz/">
 <img src="https://img.shields.io/badge/Website-84C2C0?style=for-the-badge&logo=vercel&logoColor=black"/>
 </a>
 <a href="mailto:adilsukumar24@gmail.com">
@@ -155,7 +155,7 @@
 <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://adilsukumarwebsite.vercel.app">
+<a href="https://www.adilsukumar.xyz/">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
