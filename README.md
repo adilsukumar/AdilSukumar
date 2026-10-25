@@ -16,9 +16,9 @@
 
 <!-- PROJECTS:START -->
 
-<p><strong>30 public repositories · 7 fields</strong></p>
+<p><strong>30 public repositories · 8 fields</strong></p>
 
-<p align="center"><a href="#sector-intelligence"><img src="assets/directory/nav-intelligence.svg" width="270" alt="Artificial Intelligence &amp; Intelligent Systems"/></a> <a href="#sector-vision"><img src="assets/directory/nav-vision.svg" width="270" alt="Computer Vision &amp; Human Motion"/></a> <a href="#sector-bio"><img src="assets/directory/nav-bio.svg" width="270" alt="Bioinformatics &amp; Biomedical Research"/></a> <a href="#sector-applications"><img src="assets/directory/nav-applications.svg" width="270" alt="Web &amp; App Development"/></a> <a href="#sector-hardware"><img src="assets/directory/nav-hardware.svg" width="270" alt="Robotics, Embedded &amp; Product Design"/></a> <a href="#sector-dsa"><img src="assets/directory/nav-dsa.svg" width="270" alt="Data Structures &amp; Algorithms"/></a> <a href="#sector-personal"><img src="assets/directory/nav-personal.svg" width="270" alt="Portfolio &amp; Profile"/></a> </p>
+<p align="center"><a href="#sector-intelligence"><img src="assets/directory/nav-intelligence.svg" width="270" alt="Artificial Intelligence &amp; Intelligent Systems"/></a> <a href="#sector-vision"><img src="assets/directory/nav-vision.svg" width="270" alt="Computer Vision &amp; Human Motion"/></a> <a href="#sector-bio"><img src="assets/directory/nav-bio.svg" width="270" alt="Bioinformatics &amp; Biomedical Research"/></a> <a href="#sector-applications"><img src="assets/directory/nav-applications.svg" width="270" alt="Web &amp; App Development"/></a> <a href="#sector-hardware"><img src="assets/directory/nav-hardware.svg" width="270" alt="Robotics, Embedded &amp; Product Design"/></a> <a href="#sector-dsa"><img src="assets/directory/nav-dsa.svg" width="270" alt="Data Structures &amp; Algorithms"/></a> <a href="#sector-personal"><img src="assets/directory/nav-personal.svg" width="270" alt="Portfolio &amp; Profile"/></a> <a href="#sector-new"><img src="assets/directory/nav-new.svg" width="270" alt="Other &amp; Emerging Work"/></a> </p>
 
 <a id="sector-intelligence"></a>
 
@@ -96,8 +96,6 @@
 
 <p><a href="https://github.com/adilsukumar/A2Z-DataSheet-Replica"><picture><source media="(max-width: 600px)" srcset="assets/directory/repo-fe400b42c1a7-mobile.svg" /><img src="assets/directory/repo-fe400b42c1a7.svg" width="100%" alt="A2Z DSA tracker — A curriculum tracker based on the A2Z problem sheet." /></picture></a></p>
 
-<p><a href="https://github.com/adilsukumar/LeetCode-Company-Wise-Problems-2022"><picture><source media="(max-width: 600px)" srcset="assets/directory/repo-de6c592382da-mobile.svg" /><img src="assets/directory/repo-de6c592382da.svg" width="100%" alt="Company-wise problem lists · upstream fork — An upstream reference collection, dated May 2022." /></picture></a></p>
-
 <p><a href="https://github.com/adilsukumar/DSA-Data-Structures-and-Algorithms"><picture><source media="(max-width: 600px)" srcset="assets/directory/repo-7eca11bd1500-mobile.svg" /><img src="assets/directory/repo-7eca11bd1500.svg" width="100%" alt="DSA journey — My data-structures and algorithms practice." /></picture></a></p>
 
 <a id="sector-personal"></a>
@@ -107,6 +105,12 @@
 <p><a href="https://github.com/adilsukumar/Personal-Website"><picture><source media="(max-width: 600px)" srcset="assets/directory/repo-2f7afe597a62-mobile.svg" /><img src="assets/directory/repo-2f7afe597a62.svg" width="100%" alt="Personal-Website — ✨ A corner of the internet with my name on it – open source, ever evolving, and truly mine." /></picture></a></p>
 
 <p><a href="https://github.com/adilsukumar/AdilSukumar"><picture><source media="(max-width: 600px)" srcset="assets/directory/repo-88f094321e4c-mobile.svg" /><img src="assets/directory/repo-88f094321e4c.svg" width="100%" alt="This profile — My GitHub introduction and public project directory." /></picture></a></p>
+
+<a id="sector-new"></a>
+
+<p><picture><source media="(max-width: 600px)" srcset="assets/directory/sector-new-mobile.svg" /><img src="assets/directory/sector-new.svg" width="100%" alt="Other &amp; Emerging Work. New public projects awaiting a confident field match." /></picture></p>
+
+<p><a href="https://github.com/adilsukumar/PoshanTrack-Nutrition-Tracker"><picture><source media="(max-width: 600px)" srcset="assets/directory/repo-9dd50eea5166-mobile.svg" /><img src="assets/directory/repo-9dd50eea5166.svg" width="100%" alt="PoshanTrack-Nutrition-Tracker — Indian-first Android nutrition diary with 51,988 foods, daily progress charts, phone steps and private…" /></picture></a></p>
 
 <!-- PROJECTS:END -->
 
