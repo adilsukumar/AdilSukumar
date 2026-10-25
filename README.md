@@ -1,5 +1,5 @@
 <!-- Identity 11: photo-based greeting, animated sector directory, and a consistent reference palette. -->
-<p><picture><source media="(max-width: 600px)" srcset="assets/identity/opening-mobile.svg" /><img src="assets/identity/opening.svg" width="100%" alt="Adil Sukumar. Artificial Intelligence at Vellore Institute of Technology (VIT), India. Animated typographic identity with a waving avatar based on my supplied photograph." /></picture></p>
+<p><picture><source media="(max-width: 600px)" srcset="assets/identity/opening-fast-mobile.svg" /><img src="assets/identity/opening-fast.svg" width="100%" alt="Adil Sukumar. Artificial Intelligence at Vellore Institute of Technology (VIT), India. Animated typographic identity with a waving avatar based on my supplied photograph." /></picture></p>
 
 <p align="center"><a href="#about"><img src="assets/identity/nav-about.svg" width="150" alt="About"/></a> <a href="#toolkit"><img src="assets/identity/nav-toolkit.svg" width="150" alt="Toolkit"/></a> <a href="#projects"><img src="assets/identity/nav-projects.svg" width="150" alt="Projects"/></a> <a href="#activity"><img src="assets/identity/nav-activity.svg" width="150" alt="Activity"/></a> <a href="#contact"><img src="assets/identity/nav-contact.svg" width="150" alt="Contact"/></a> </p>
 
