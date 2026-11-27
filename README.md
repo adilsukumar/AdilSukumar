@@ -16,7 +16,7 @@
 
 <!-- PROJECTS:START -->
 
-<p><strong>33 public repositories · 8 fields</strong></p>
+<p><strong>34 public repositories · 8 fields</strong></p>
 
 <p align="center"><a href="#sector-intelligence"><img src="assets/directory/nav-intelligence.svg" width="270" alt="Artificial Intelligence &amp; Intelligent Systems"/></a> <a href="#sector-vision"><img src="assets/directory/nav-vision.svg" width="270" alt="Computer Vision &amp; Human Motion"/></a> <a href="#sector-bio"><img src="assets/directory/nav-bio.svg" width="270" alt="Bioinformatics &amp; Biomedical Research"/></a> <a href="#sector-applications"><img src="assets/directory/nav-applications.svg" width="270" alt="Web &amp; App Development"/></a> <a href="#sector-hardware"><img src="assets/directory/nav-hardware.svg" width="270" alt="Robotics, Embedded &amp; Product Design"/></a> <a href="#sector-dsa"><img src="assets/directory/nav-dsa.svg" width="270" alt="Data Structures &amp; Algorithms"/></a> <a href="#sector-personal"><img src="assets/directory/nav-personal.svg" width="270" alt="Portfolio &amp; Profile"/></a> <a href="#sector-new"><img src="assets/directory/nav-new.svg" width="270" alt="Other &amp; Emerging Work"/></a> </p>
 
@@ -117,6 +117,8 @@
 <p><a href="https://github.com/adilsukumar/PoshanTrack-Nutrition-Tracker"><picture><source media="(max-width: 600px)" srcset="assets/directory/repo-9dd50eea5166-mobile.svg" /><img src="assets/directory/repo-9dd50eea5166.svg" width="100%" alt="PoshanTrack-Nutrition-Tracker — Indian-first Android nutrition diary with 51,988 foods, daily progress charts, phone steps and private…" /></picture></a></p>
 
 <p><a href="https://github.com/adilsukumar/The-Adil-AI"><picture><source media="(max-width: 600px)" srcset="assets/directory/repo-73d783a02acd-mobile.svg" /><img src="assets/directory/repo-73d783a02acd.svg" width="100%" alt="The-Adil-AI — Universal AI-powered MCQ Auto-Solver &amp; Autopilot Suite (Groq 200ms Turbo, Gemini Multimodal Vision, and…" /></picture></a></p>
+
+<p><a href="https://github.com/adilsukumar/The_OptiMistic_Glasses"><picture><source media="(max-width: 600px)" srcset="assets/directory/repo-d328b0b8eee3-mobile.svg" /><img src="assets/directory/repo-d328b0b8eee3.svg" width="100%" alt="The_OptiMistic_Glasses — Open the repository for details." /></picture></a></p>
 
 <!-- PROJECTS:END -->
 
